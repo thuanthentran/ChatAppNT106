@@ -27,6 +27,7 @@ namespace ĐồÁn_Nhóm15
         public static string passwordSender = "tnhi lcdk npsp pych";
         public string emailname { set; get; }
         private readonly IMongoDatabase database;
+        public CurrentUser CurrentUser { set; get; }
         public FormProfile()
         {
             InitializeComponent();
@@ -50,6 +51,7 @@ namespace ĐồÁn_Nhóm15
                     textBoxUsername.Text = user.GetValue("name").AsString;
                     label3.Text = user.GetValue("email").AsString;
                     textBoxPassword.Text = user.GetValue("password").AsString;
+                    CurrentUser.SetCurrentUser(user.GetValue("email").AsString, user.GetValue("name").AsString, user.GetValue("password").AsString);
                 }
                 else
                 {
@@ -60,7 +62,6 @@ namespace ĐồÁn_Nhóm15
             {
                 MessageBox.Show($"Error: {ex.Message}");
             }
-
         }
 
         private void guna2CircleButton1_Click(object sender, EventArgs e)
@@ -193,7 +194,10 @@ namespace ĐồÁn_Nhóm15
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            FormChat formchat = new FormChat();
+            formchat.Email = label2.Text;
+            formchat.Name = textBoxUsername.Text;
+            formchat.ShowDialog();
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -247,6 +251,11 @@ namespace ĐồÁn_Nhóm15
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }

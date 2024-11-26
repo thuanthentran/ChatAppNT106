@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ĐồÁn_Nhóm15
 {
-    public partial class TheOtherUser : UserControl
+    public partial class MessageMine : UserControl
     {
-        public TheOtherUser()
+        public MessageMine()
         {
             InitializeComponent();
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }

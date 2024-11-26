@@ -283,7 +283,6 @@ namespace ĐồÁn_Nhóm15
                         //timer1.Start();
                         FormProfile f2 = new FormProfile();
                         f2.emailname = emailLoginTxb.Text;
-
                         this.Hide();
                         f2.Show();
                     }
