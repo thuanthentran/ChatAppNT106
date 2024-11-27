@@ -1,6 +1,6 @@
 ﻿namespace ĐồÁn_Nhóm15
 {
-    partial class UserSearch
+    partial class UserChatPreview
     {
         /// <summary> 
         /// Required designer variable.
@@ -29,46 +29,43 @@
         private void InitializeComponent()
         {
             this.labelUserName = new System.Windows.Forms.Label();
-            this.labelEmail = new System.Windows.Forms.Label();
+            this.labelLastMessage = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // labelUserName
             // 
             this.labelUserName.AutoSize = true;
-            this.labelUserName.BackColor = System.Drawing.Color.DarkGreen;
-            this.labelUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelUserName.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.labelUserName.Location = new System.Drawing.Point(32, 6);
+            this.labelUserName.BackColor = System.Drawing.Color.SeaGreen;
+            this.labelUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.labelUserName.ForeColor = System.Drawing.Color.White;
+            this.labelUserName.Location = new System.Drawing.Point(14, 11);
             this.labelUserName.Name = "labelUserName";
-            this.labelUserName.Size = new System.Drawing.Size(57, 20);
+            this.labelUserName.Size = new System.Drawing.Size(163, 26);
             this.labelUserName.TabIndex = 0;
-            this.labelUserName.Text = "label1";
+            this.labelUserName.Text = "labelUserName";
             // 
-            // labelEmail
+            // labelLastMessage
             // 
-            this.labelEmail.AutoSize = true;
-            this.labelEmail.BackColor = System.Drawing.Color.Green;
-            this.labelEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelEmail.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.labelEmail.Location = new System.Drawing.Point(37, 27);
-            this.labelEmail.Name = "labelEmail";
-            this.labelEmail.Size = new System.Drawing.Size(35, 13);
-            this.labelEmail.TabIndex = 1;
-            this.labelEmail.Text = "label2";
+            this.labelLastMessage.AutoSize = true;
+            this.labelLastMessage.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.labelLastMessage.Location = new System.Drawing.Point(17, 45);
+            this.labelLastMessage.Name = "labelLastMessage";
+            this.labelLastMessage.Size = new System.Drawing.Size(92, 13);
+            this.labelLastMessage.TabIndex = 1;
+            this.labelLastMessage.Text = "labelLastMessage";
             // 
-            // UserSearch
+            // UserChatPreview
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Transparent;
-            this.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.user2;
+            this.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.Userpreview2;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.Controls.Add(this.labelEmail);
+            this.Controls.Add(this.labelLastMessage);
             this.Controls.Add(this.labelUserName);
             this.DoubleBuffered = true;
-            this.Name = "UserSearch";
-            this.Size = new System.Drawing.Size(305, 50);
-            this.Load += new System.EventHandler(this.UserSearch_Load);
+            this.Name = "UserChatPreview";
+            this.Size = new System.Drawing.Size(350, 69);
+            this.Load += new System.EventHandler(this.UserChatPreview_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -77,6 +74,6 @@
         #endregion
 
         private System.Windows.Forms.Label labelUserName;
-        private System.Windows.Forms.Label labelEmail;
+        private System.Windows.Forms.Label labelLastMessage;
     }
 }

@@ -259,5 +259,13 @@ namespace ĐồÁn_Nhóm15
         {
 
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            FormChat formchat = new FormChat();
+            formchat.Email = label2.Text;
+            formchat.Name = textBoxUsername.Text;
+            formchat.ShowDialog();
+        }
     }
 }

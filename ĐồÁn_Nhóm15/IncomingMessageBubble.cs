@@ -16,15 +16,17 @@ namespace ĐồÁn_Nhóm15
         {
             InitializeComponent();
             this.BackColor = Color.LightGray; // Màu nền cho tin nhắn nhận
-            this.BorderStyle = BorderStyle.FixedSingle;
-            this.Padding = new Padding(10);
-            this.Margin = new Padding(5);
+            //this.BorderStyle = BorderStyle.FixedSingle;
+            //this.Padding = new Padding(10);
+            //this.Margin = new Padding(5);
+            this.Dock = DockStyle.Right;
         }
 
         public void SetMessage(string message, DateTime timestamp)
         {
             lblMessage.Text = message;
-            lblTimestamp.Text = timestamp.ToString("HH:mm");
+            DateTime dateTime = DateTime.Parse(timestamp.ToString());
+            lblTimestamp.Text = dateTime.ToString("dd/MM/yyyy HH:mm");
         }
 
         private void IncomingMessageBubble_Load(object sender, EventArgs e)

@@ -356,8 +356,8 @@ D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15
 D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormLoginandRegister.resources
 D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormProfile.resources
 D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.ChatUser.resources
-D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.TheOtherUser.resources
 D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormChat.resources
 D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.UserSearch.resources
 D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.IncomingMessageBubble.resources
 D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.OutgoingMessageBubble.resources
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.UserChatPreview.resources

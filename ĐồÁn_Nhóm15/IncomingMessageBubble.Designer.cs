@@ -35,7 +35,7 @@
             // lblTimestamp
             // 
             this.lblTimestamp.AutoSize = true;
-            this.lblTimestamp.Location = new System.Drawing.Point(12, 9);
+            this.lblTimestamp.Location = new System.Drawing.Point(12, 17);
             this.lblTimestamp.Name = "lblTimestamp";
             this.lblTimestamp.Size = new System.Drawing.Size(58, 13);
             this.lblTimestamp.TabIndex = 0;
@@ -44,9 +44,10 @@
             // lblMessage
             // 
             this.lblMessage.AutoSize = true;
-            this.lblMessage.Location = new System.Drawing.Point(76, 9);
+            this.lblMessage.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMessage.Location = new System.Drawing.Point(112, 13);
             this.lblMessage.Name = "lblMessage";
-            this.lblMessage.Size = new System.Drawing.Size(50, 13);
+            this.lblMessage.Size = new System.Drawing.Size(74, 20);
             this.lblMessage.TabIndex = 1;
             this.lblMessage.Text = "Message";
             // 
@@ -57,7 +58,7 @@
             this.Controls.Add(this.lblMessage);
             this.Controls.Add(this.lblTimestamp);
             this.Name = "IncomingMessageBubble";
-            this.Size = new System.Drawing.Size(499, 35);
+            this.Size = new System.Drawing.Size(330, 48);
             this.Load += new System.EventHandler(this.IncomingMessageBubble_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

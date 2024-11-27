@@ -28,9 +28,15 @@ namespace ĐồÁn_Nhóm15
         public FormLoginandRegister()
         {
             InitializeComponent();
-            var client = new MongoClient("mongodb+srv://root:123@cluster0.o3wzx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
-            database = client.GetDatabase("NMM");
-           
+            try
+            {
+                var client = new MongoClient("mongodb+srv://root:123@cluster0.o3wzx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
+                database = client.GetDatabase("NMM");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
 
         }
         private void Form1_Load(object sender, EventArgs e)

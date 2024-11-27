@@ -288,11 +288,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TheOtherUser.cs">
+    <Compile Include="UserChatPreview.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="TheOtherUser.Designer.cs">
-      <DependentUpon>TheOtherUser.cs</DependentUpon>
+    <Compile Include="UserChatPreview.Designer.cs">
+      <DependentUpon>UserChatPreview.cs</DependentUpon>
     </Compile>
     <Compile Include="UserSearch.cs">
       <SubType>UserControl</SubType>
@@ -328,8 +328,8 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="TheOtherUser.resx">
-      <DependentUpon>TheOtherUser.cs</DependentUpon>
+    <EmbeddedResource Include="UserChatPreview.resx">
+      <DependentUpon>UserChatPreview.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserSearch.resx">
       <DependentUpon>UserSearch.cs</DependentUpon>
@@ -355,6 +355,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="mongocrypt.dll" />
+    <None Include="Resources\Userpreview2.png" />
+    <None Include="Resources\Userpreview1.png" />
+    <None Include="Resources\Userpreview.png" />
+    <None Include="Resources\user2.png" />
+    <None Include="Resources\user1.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\search_5177376.png" />
+    <None Include="Resources\search_4398568.png" />
     <None Include="Resources\more_17216319.png" />
     <None Include="Resources\speech-bubble_5730473.png" />
     <None Include="Resources\chat_589708.png" />

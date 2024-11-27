@@ -3,6 +3,7 @@ using MongoDB.Bson;
 using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 public class DatabaseHelper
 {
@@ -53,14 +54,42 @@ public class DatabaseHelper
         var result = collection.Find(filter).SortBy(m => m.Timestamp).ToList();
 
         // Log dữ liệu truy vấn
-        Console.WriteLine($"Querying chat history for {user1} and {user2}");
-        Console.WriteLine($"Number of messages found: {result.Count}");
-        foreach (var message in result)
+        //Console.WriteLine($"Querying chat history for {user1} and {user2}");
+        //Console.WriteLine($"Number of messages found: {result.Count}");
+        /*foreach (var message in result)
         {
             Console.WriteLine($"Message from {message.User1} to {message.User2}: {message.Message} at {message.Timestamp}");
-        }
+        }*/
 
         return result;
+    }
+    public List<UserChat> GetUserChats(string currentUserEmail)
+    {
+        var collection = db.GetCollection<ChatMessage>("Chatting");
+        var filter = Builders<ChatMessage>.Filter.Or(
+            Builders<ChatMessage>.Filter.Eq(m => m.User1, currentUserEmail),
+            Builders<ChatMessage>.Filter.Eq(m => m.User2, currentUserEmail)
+        );
+
+        var chatMessages = collection.Find(filter).SortByDescending(m => m.Timestamp).ToList();
+
+        var userChats = chatMessages
+            .GroupBy(m => m.User1 == currentUserEmail ? m.User2 : m.User1)
+            .Select(g => new UserChat
+            {
+                UserEmail = g.Key,
+                UserName = db.GetCollection<User>("Login").Find(u => u.email == g.Key).FirstOrDefault()?.name,
+                LastMessage = g.FirstOrDefault()?.Message
+            })
+            .ToList();
+
+        return userChats;
+    }
+    public class UserChat
+    {
+        public string UserEmail { get; set; }
+        public string UserName { get; set; }
+        public string LastMessage { get; set; }
     }
 
 
