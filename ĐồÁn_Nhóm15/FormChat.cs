@@ -22,6 +22,7 @@ namespace ĐồÁn_Nhóm15
         public string Name;
         private string currentUserEmail;
         private string otherUserEmail;
+        private DateTime lastFetchedTime = DateTime.MinValue; // Khởi tạo với thời gian tối thiểu
 
         public FormChat()
         {
@@ -45,20 +46,23 @@ namespace ĐồÁn_Nhóm15
 
         private void UpdateTimer_Tick(object sender, EventArgs e)
         {
-            DisplayChatHistory(currentUserEmail, otherUserEmail);
-            LoadUserChats();
+            if (!string.IsNullOrEmpty(otherUserEmail))
+            {
+                // Kiểm tra nếu lastFetchedTime có thay đổi, sau đó mới gọi DisplayChatHistory
+                DisplayChatHistory(currentUserEmail, otherUserEmail);
+            }
         }
 
         private void DisplayChatHistory(string user1, string user2)
         {
-            //Console.WriteLine("Fetching chat history between " + user1 + " and " + user2);
-            var messages = dbHelper.GetChatHistory(user1, user2);
-            flowLayoutPanelMessages.Controls.Clear();
-            //Console.WriteLine("Number of messages found: " + messages.Count);
+            // Xóa toàn bộ tin nhắn cũ trước khi hiển thị tin nhắn mới
+            //flowLayoutPanelMessages.Controls.Clear();
+
+            // Lấy các tin nhắn giữa hai người dùng
+            var messages = dbHelper.GetNewChatMessages(user1, user2, lastFetchedTime);
 
             foreach (var message in messages)
             {
-                //Console.WriteLine($"Message from {message.User1} to {message.User2}: {message.Message}");
                 if (message.User1 == user1)
                 {
                     var outgoingBubble = new OutgoingMessageBubble();
@@ -73,6 +77,13 @@ namespace ĐồÁn_Nhóm15
                 }
             }
 
+            // Cập nhật lastFetchedTime sau khi hiển thị tin nhắn
+            if (messages.Count > 0)
+            {
+                lastFetchedTime = messages.LastOrDefault()?.Timestamp ?? DateTime.MinValue;
+            }
+
+            // Cuộn tới tin nhắn mới nhất
             if (flowLayoutPanelMessages.Controls.Count > 0)
             {
                 flowLayoutPanelMessages.ScrollControlIntoView(flowLayoutPanelMessages.Controls[flowLayoutPanelMessages.Controls.Count - 1]);
@@ -97,7 +108,7 @@ namespace ĐồÁn_Nhóm15
         }
         private void LoadUserChats()
         {
-            var userChats = dbHelper.GetUserChats(currentUserEmail); // Lấy các đoạn chat của người dùng
+            var userChats = dbHelper.GetUserChats(currentUserEmail); // Lấy các cuộc trò chuyện của người dùng
             panelUsers.Controls.Clear();
 
             foreach (var chat in userChats)
@@ -109,19 +120,36 @@ namespace ĐồÁn_Nhóm15
                 panelUsers.Controls.Add(userChatPreview);
             }
         }
+
         private void UserChatPreview_Clicked(object sender, EventArgs e)
         {
             var chatPreview = (UserChatPreview)sender;
-            otherUserEmail = chatPreview.UserEmail;
-            DisplayChatHistory(currentUserEmail, otherUserEmail);
+            string newOtherUserEmail = chatPreview.UserEmail; // Lấy email của người dùng đã chọn
+
+            // Kiểm tra nếu email của user mới khác với email user cũ
+            if (otherUserEmail != newOtherUserEmail)
+            {
+                otherUserEmail = newOtherUserEmail; // Cập nhật email của người dùng đã chọn
+                lastFetchedTime = DateTime.MinValue;
+                flowLayoutPanelMessages.Controls.Clear();
+                DisplayChatHistory(currentUserEmail, otherUserEmail); // Hiển thị lịch sử chat mới
+            }
         }
+
 
         private void UserSearch_UserClicked(object sender, EventArgs e)
         {
             var searchResult = (UserSearch)sender;
-            otherUserEmail = searchResult.getEmail();
-            //Console.WriteLine("User clicked: " + otherUserEmail);
-            DisplayChatHistory(currentUserEmail, otherUserEmail);
+            string newOtherUserEmail = searchResult.getEmail(); // Lấy email của người dùng đã chọn
+
+            // Kiểm tra nếu user mới được chọn khác với user trước đó
+            if (otherUserEmail != newOtherUserEmail)
+            {
+                otherUserEmail = newOtherUserEmail; // Cập nhật email của người dùng được chọn
+                lastFetchedTime = DateTime.MinValue;
+                flowLayoutPanelMessages.Controls.Clear();
+                DisplayChatHistory(currentUserEmail, otherUserEmail); // Hiển thị lịch sử chat mới
+            }
         }
 
         private void SendMessage(string user1, string user2, string messageText)
@@ -134,10 +162,18 @@ namespace ĐồÁn_Nhóm15
                 Timestamp = DateTime.Now
             };
             dbHelper.InsertChatMessage(message);
-            //Console.WriteLine("Sent message from " + user1 + " to " + user2 + ": " + messageText);
-            DisplayChatHistory(user1, user2); // Cập nhật lịch sử chat sau khi gửi tin nhắn
+
+            // Chỉ gọi lại DisplayChatHistory nếu user2 được gán đúng
+            if (otherUserEmail == user2)
+            {
+                DisplayChatHistory(user1, user2);
+            }
+
+            // Tải lại danh sách người dùng để cập nhật
             LoadUserChats();
         }
+
+
 
 
         private void sendButton_Click(object sender, EventArgs e)
@@ -208,6 +244,11 @@ namespace ĐồÁn_Nhóm15
                     check = true;
                 }
             }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 

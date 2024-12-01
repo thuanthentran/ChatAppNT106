@@ -44,15 +44,11 @@
             this.button1 = new System.Windows.Forms.Button();
             this.guna2CustomGradientPanel1 = new Guna.UI2.WinForms.Guna2CustomGradientPanel();
             this.button5 = new System.Windows.Forms.Button();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.textBoxUsername = new System.Windows.Forms.TextBox();
-            this.textBoxPassword = new System.Windows.Forms.TextBox();
-            this.panelHome = new System.Windows.Forms.Panel();
             this.panelSetting = new System.Windows.Forms.Panel();
-            this.button10 = new System.Windows.Forms.Button();
+            this.button11 = new System.Windows.Forms.Button();
+            this.label7 = new System.Windows.Forms.Label();
+            this.textBoxNewUsername = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.textBoxYourEmail = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
@@ -64,10 +60,19 @@
             this.textBoxAuthOTP = new System.Windows.Forms.TextBox();
             this.textBoxNewPassword = new System.Windows.Forms.TextBox();
             this.textBoxOldPassword = new System.Windows.Forms.TextBox();
+            this.button10 = new System.Windows.Forms.Button();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.panelHome = new System.Windows.Forms.Panel();
+            this.textBoxUsername = new System.Windows.Forms.TextBox();
+            this.textBoxPassword = new System.Windows.Forms.TextBox();
+            this.labelusername = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.guna2CustomGradientPanel1.SuspendLayout();
-            this.panelHome.SuspendLayout();
             this.panelSetting.SuspendLayout();
+            this.panelHome.SuspendLayout();
             this.SuspendLayout();
             // 
             // label2
@@ -232,7 +237,7 @@
             this.guna2CustomGradientPanel1.MaximumSize = new System.Drawing.Size(301, 593);
             this.guna2CustomGradientPanel1.MinimumSize = new System.Drawing.Size(73, 593);
             this.guna2CustomGradientPanel1.Name = "guna2CustomGradientPanel1";
-            this.guna2CustomGradientPanel1.Size = new System.Drawing.Size(73, 593);
+            this.guna2CustomGradientPanel1.Size = new System.Drawing.Size(301, 593);
             this.guna2CustomGradientPanel1.TabIndex = 4;
             // 
             // button5
@@ -247,86 +252,13 @@
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(153, 270);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(70, 25);
-            this.label3.TabIndex = 6;
-            this.label3.Text = "label3";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(25, 307);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(110, 25);
-            this.label4.TabIndex = 7;
-            this.label4.Text = "Username";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(28, 270);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(65, 25);
-            this.label5.TabIndex = 7;
-            this.label5.Text = "Email";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(25, 345);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(106, 25);
-            this.label6.TabIndex = 7;
-            this.label6.Text = "Password";
-            // 
-            // textBoxUsername
-            // 
-            this.textBoxUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxUsername.Location = new System.Drawing.Point(157, 304);
-            this.textBoxUsername.Name = "textBoxUsername";
-            this.textBoxUsername.ReadOnly = true;
-            this.textBoxUsername.Size = new System.Drawing.Size(211, 31);
-            this.textBoxUsername.TabIndex = 8;
-            this.textBoxUsername.TextChanged += new System.EventHandler(this.textBoxUsername_TextChanged);
-            // 
-            // textBoxPassword
-            // 
-            this.textBoxPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxPassword.Location = new System.Drawing.Point(157, 342);
-            this.textBoxPassword.Name = "textBoxPassword";
-            this.textBoxPassword.PasswordChar = '*';
-            this.textBoxPassword.ReadOnly = true;
-            this.textBoxPassword.Size = new System.Drawing.Size(211, 31);
-            this.textBoxPassword.TabIndex = 8;
-            // 
-            // panelHome
-            // 
-            this.panelHome.Controls.Add(this.label3);
-            this.panelHome.Controls.Add(this.textBoxPassword);
-            this.panelHome.Controls.Add(this.label4);
-            this.panelHome.Controls.Add(this.label5);
-            this.panelHome.Controls.Add(this.textBoxUsername);
-            this.panelHome.Controls.Add(this.label6);
-            this.panelHome.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelHome.Location = new System.Drawing.Point(73, 0);
-            this.panelHome.Name = "panelHome";
-            this.panelHome.Size = new System.Drawing.Size(799, 592);
-            this.panelHome.TabIndex = 9;
-            this.panelHome.Paint += new System.Windows.Forms.PaintEventHandler(this.panelHome_Paint);
-            // 
             // panelSetting
             // 
-            this.panelSetting.Controls.Add(this.button10);
+            this.panelSetting.AllowDrop = true;
+            this.panelSetting.Controls.Add(this.button11);
+            this.panelSetting.Controls.Add(this.label7);
+            this.panelSetting.Controls.Add(this.textBoxNewUsername);
+            this.panelSetting.Controls.Add(this.textBox1);
             this.panelSetting.Controls.Add(this.label12);
             this.panelSetting.Controls.Add(this.textBoxYourEmail);
             this.panelSetting.Controls.Add(this.label11);
@@ -338,22 +270,53 @@
             this.panelSetting.Controls.Add(this.textBoxAuthOTP);
             this.panelSetting.Controls.Add(this.textBoxNewPassword);
             this.panelSetting.Controls.Add(this.textBoxOldPassword);
-            this.panelSetting.Location = new System.Drawing.Point(72, 0);
+            this.panelSetting.Controls.Add(this.button10);
+            this.panelSetting.Controls.Add(this.textBox2);
+            this.panelSetting.Location = new System.Drawing.Point(301, 0);
             this.panelSetting.Name = "panelSetting";
-            this.panelSetting.Size = new System.Drawing.Size(798, 593);
+            this.panelSetting.Size = new System.Drawing.Size(920, 592);
             this.panelSetting.TabIndex = 9;
             this.panelSetting.Paint += new System.Windows.Forms.PaintEventHandler(this.panelSetting_Paint);
             // 
-            // button10
+            // button11
             // 
-            this.button10.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button10.Location = new System.Drawing.Point(142, 258);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(238, 54);
-            this.button10.TabIndex = 8;
-            this.button10.Text = "Save information";
-            this.button10.UseVisualStyleBackColor = true;
-            this.button10.Click += new System.EventHandler(this.button10_Click);
+            this.button11.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button11.Location = new System.Drawing.Point(137, 480);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(238, 50);
+            this.button11.TabIndex = 14;
+            this.button11.Text = "Save information";
+            this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(46, 418);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(141, 24);
+            this.label7.TabIndex = 13;
+            this.label7.Text = "New Username";
+            // 
+            // textBoxNewUsername
+            // 
+            this.textBoxNewUsername.Location = new System.Drawing.Point(225, 422);
+            this.textBoxNewUsername.Name = "textBoxNewUsername";
+            this.textBoxNewUsername.Size = new System.Drawing.Size(220, 20);
+            this.textBoxNewUsername.TabIndex = 11;
+            // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.Color.Green;
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.ForeColor = System.Drawing.Color.White;
+            this.textBox1.Location = new System.Drawing.Point(7, 13);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(913, 29);
+            this.textBox1.TabIndex = 10;
+            this.textBox1.Text = "Change Password";
+            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label12
             // 
@@ -455,15 +418,112 @@
             this.textBoxOldPassword.TabIndex = 0;
             this.textBoxOldPassword.TextChanged += new System.EventHandler(this.textBoxOldPassword_TextChanged);
             // 
+            // button10
+            // 
+            this.button10.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button10.Location = new System.Drawing.Point(137, 260);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(238, 54);
+            this.button10.TabIndex = 8;
+            this.button10.Text = "Save information";
+            this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
+            // 
+            // textBox2
+            // 
+            this.textBox2.BackColor = System.Drawing.Color.Green;
+            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox2.ForeColor = System.Drawing.Color.White;
+            this.textBox2.Location = new System.Drawing.Point(7, 375);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(913, 29);
+            this.textBox2.TabIndex = 10;
+            this.textBox2.Text = "Change Username";
+            this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            // 
+            // panelHome
+            // 
+            this.panelHome.AllowDrop = true;
+            this.panelHome.Controls.Add(this.label5);
+            this.panelHome.Controls.Add(this.label3);
+            this.panelHome.Controls.Add(this.label4);
+            this.panelHome.Controls.Add(this.labelusername);
+            this.panelHome.Controls.Add(this.textBoxPassword);
+            this.panelHome.Controls.Add(this.textBoxUsername);
+            this.panelHome.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelHome.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.panelHome.Location = new System.Drawing.Point(301, 0);
+            this.panelHome.Name = "panelHome";
+            this.panelHome.Size = new System.Drawing.Size(1070, 592);
+            this.panelHome.TabIndex = 7;
+            // 
+            // textBoxUsername
+            // 
+            this.textBoxUsername.Location = new System.Drawing.Point(328, 252);
+            this.textBoxUsername.Name = "textBoxUsername";
+            this.textBoxUsername.ReadOnly = true;
+            this.textBoxUsername.Size = new System.Drawing.Size(327, 31);
+            this.textBoxUsername.TabIndex = 0;
+            // 
+            // textBoxPassword
+            // 
+            this.textBoxPassword.Location = new System.Drawing.Point(328, 292);
+            this.textBoxPassword.Name = "textBoxPassword";
+            this.textBoxPassword.PasswordChar = '*';
+            this.textBoxPassword.ReadOnly = true;
+            this.textBoxPassword.Size = new System.Drawing.Size(327, 31);
+            this.textBoxPassword.TabIndex = 1;
+            // 
+            // labelusername
+            // 
+            this.labelusername.AutoSize = true;
+            this.labelusername.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelusername.Location = new System.Drawing.Point(196, 259);
+            this.labelusername.Name = "labelusername";
+            this.labelusername.Size = new System.Drawing.Size(110, 25);
+            this.labelusername.TabIndex = 2;
+            this.labelusername.Text = "Username";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(196, 296);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(106, 25);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "Password";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(323, 212);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(65, 25);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "Email";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(196, 215);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(65, 25);
+            this.label5.TabIndex = 5;
+            this.label5.Text = "Email";
+            // 
             // FormProfile
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MediumAquamarine;
-            this.ClientSize = new System.Drawing.Size(872, 592);
+            this.ClientSize = new System.Drawing.Size(1371, 592);
             this.Controls.Add(this.panelHome);
-            this.Controls.Add(this.guna2CustomGradientPanel1);
             this.Controls.Add(this.panelSetting);
+            this.Controls.Add(this.guna2CustomGradientPanel1);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FormProfile";
             this.Text = "Form2";
@@ -471,10 +531,10 @@
             this.panel1.ResumeLayout(false);
             this.guna2CustomGradientPanel1.ResumeLayout(false);
             this.guna2CustomGradientPanel1.PerformLayout();
-            this.panelHome.ResumeLayout(false);
-            this.panelHome.PerformLayout();
             this.panelSetting.ResumeLayout(false);
             this.panelSetting.PerformLayout();
+            this.panelHome.ResumeLayout(false);
+            this.panelHome.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -491,13 +551,6 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox textBoxUsername;
-        private System.Windows.Forms.TextBox textBoxPassword;
-        private System.Windows.Forms.Panel panelHome;
         private System.Windows.Forms.Panel panelSetting;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label10;
@@ -515,5 +568,17 @@
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox textBoxNewUsername;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button button11;
+        private System.Windows.Forms.Panel panelHome;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label labelusername;
+        private System.Windows.Forms.TextBox textBoxPassword;
+        private System.Windows.Forms.TextBox textBoxUsername;
     }
 }

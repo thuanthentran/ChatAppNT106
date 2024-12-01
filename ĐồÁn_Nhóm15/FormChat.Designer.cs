@@ -31,6 +31,7 @@
             this.components = new System.ComponentModel.Container();
             this.panelSearching = new System.Windows.Forms.Panel();
             this.Search = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.textBoxEmail = new System.Windows.Forms.TextBox();
             this.panelResult = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -45,7 +46,6 @@
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.button1 = new System.Windows.Forms.Button();
             this.panelSearching.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -72,6 +72,17 @@
             this.Search.Size = new System.Drawing.Size(41, 13);
             this.Search.TabIndex = 4;
             this.Search.Text = "Search";
+            // 
+            // button1
+            // 
+            this.button1.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.search_5177376;
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.button1.Location = new System.Drawing.Point(6, 12);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(54, 51);
+            this.button1.TabIndex = 2;
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // textBoxEmail
             // 
@@ -133,6 +144,7 @@
             this.label1.Size = new System.Drawing.Size(70, 26);
             this.label1.TabIndex = 0;
             this.label1.Text = "label1";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // panel1
             // 
@@ -203,17 +215,6 @@
             // timer1
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
-            // button1
-            // 
-            this.button1.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.search_5177376;
-            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button1.Location = new System.Drawing.Point(6, 12);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(54, 51);
-            this.button1.TabIndex = 2;
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // FormChat
             // 

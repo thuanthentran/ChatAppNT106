@@ -101,11 +101,12 @@
             this.panel1.Controls.Add(this.passLoginTxb);
             this.panel1.Controls.Add(this.emailLoginTxb);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(37, 166);
+            this.panel1.Location = new System.Drawing.Point(16, 166);
             this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(397, 315);
             this.panel1.TabIndex = 2;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // showPLCbx
             // 
@@ -241,7 +242,7 @@
             this.panel2.Controls.Add(this.guna2Button2);
             this.panel2.Controls.Add(this.nameTxb);
             this.panel2.Controls.Add(this.label4);
-            this.panel2.Location = new System.Drawing.Point(438, 84);
+            this.panel2.Location = new System.Drawing.Point(18, 166);
             this.panel2.Margin = new System.Windows.Forms.Padding(2);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(397, 318);
@@ -517,7 +518,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.ForestGreen;
-            this.ClientSize = new System.Drawing.Size(881, 487);
+            this.ClientSize = new System.Drawing.Size(454, 487);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.buttonRegister);
             this.Controls.Add(this.buttonLogin);

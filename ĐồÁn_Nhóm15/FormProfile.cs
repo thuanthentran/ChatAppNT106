@@ -165,8 +165,7 @@ namespace ĐồÁn_Nhóm15
 
         private void button1_Click(object sender, EventArgs e)
         {
-            panelHome.BringToFront();
-            panelHome.Visible = true;
+            ShowPanel(panelHome);
         }
 
         private void panelHome_Paint(object sender, PaintEventArgs e)
@@ -176,20 +175,17 @@ namespace ĐồÁn_Nhóm15
 
         private void button2_Click(object sender, EventArgs e)
         {
-            panelSetting.BringToFront();
-            panelSetting.Visible = true;
+            ShowPanel(panelSetting);
         }
 
         private void button6_Click_1(object sender, EventArgs e)
         {
-            panelHome.BringToFront();
-            panelHome.Visible = true;
+            ShowPanel(panelHome);
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            panelSetting.BringToFront();
-            panelSetting.Visible = true;
+            ShowPanel(panelSetting);
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -213,10 +209,9 @@ namespace ĐồÁn_Nhóm15
         private void button10_Click(object sender, EventArgs e)
         {
             var collection = database.GetCollection<BsonDocument>("Login");
-            var filter = Builders<BsonDocument>.Filter.Eq("email", label2.Text.Trim());
+            var filter = Builders<BsonDocument>.Filter.Eq("email", textBoxYourEmail.Text.Trim());
             var user = collection.Find(filter).FirstOrDefault();
-            textBoxYourEmail.Text = user.GetValue("email").AsString;
-
+            //textBoxYourEmail.Text = user.GetValue("email").AsString;
             bool isMatch = BCrypt.Net.BCrypt.Verify(textBoxOldPassword.Text, user.GetValue("password").AsString);
             if (!isMatch)
             {
@@ -266,6 +261,39 @@ namespace ĐồÁn_Nhóm15
             formchat.Email = label2.Text;
             formchat.Name = textBoxUsername.Text;
             formchat.ShowDialog();
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            var collection = database.GetCollection<BsonDocument>("Login");
+            var filter = Builders<BsonDocument>.Filter.Eq("email", label2.Text.ToString());
+            var user = collection.Find(filter).FirstOrDefault();
+            try
+            {
+                user.Set("name", textBoxNewUsername.Text.ToString());
+                var update = Builders<BsonDocument>.Update.Set("name", user.GetValue("name").AsString); // Thay đổi nội dung cần update
+                MessageBox.Show("Username changed successfully!");
+                var result = collection.UpdateOne(filter, update);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+        private void ShowPanel(Panel panel)
+        {
+            // Ẩn tất cả các panel trước.
+            panelHome.Visible = false;
+            panelSetting.Visible = false;
+
+            // Hiển thị panel được chọn.
+            panel.Visible = true;
+            panel.BringToFront();
         }
     }
 }
