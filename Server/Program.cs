@@ -30,8 +30,9 @@ namespace Server
             while (true)
             {
                 var client = _listener.AcceptTcpClient();
-                var thread = new Thread(HandleClient);
-                thread.Start(client);
+                var thread = new Thread(() => HandleClient(client));
+                thread.IsBackground = true;
+                thread.Start();
             }
         }
 

@@ -17,6 +17,7 @@ using MongoDB.Driver;
 using MongoDB.Driver.Core.Events;
 using SharpCompress.Crypto;
 using Newtonsoft.Json;
+using System.Threading;
 
 namespace ĐồÁn_Nhóm15
 {
@@ -70,11 +71,17 @@ namespace ĐồÁn_Nhóm15
             {
                 MessageBox.Show(ex.Message);
             }
+            var listenerthread = new Thread(() => ListenForMessages());
+            listenerthread.IsBackground = true;
+            listenerthread.Start();
+        }
+        private async void ListenForMessages()
+        {
             while (true)
             {
                 try
                 {
-                    buffer = new byte[1024];
+                    var buffer = new byte[1024];
                     int received = await _stream.ReadAsync(buffer, 0, buffer.Length);
                     var message_raw = Encoding.UTF8.GetString(buffer, 0, received);
                     Console.WriteLine($"Received message: {message_raw}");
@@ -83,34 +90,29 @@ namespace ĐồÁn_Nhóm15
                     Console.WriteLine($"User2: {message.User2}");
                     Console.WriteLine($"Message: {message.Message}");
                     Console.WriteLine($"Timestamp: {message.Timestamp}");
-                    if (message.User1 == Email)
+                    // Sử dụng Invoke để cập nhật giao diện từ UI thread
+                    flowLayoutPanelMessages.Invoke((MethodInvoker)(() =>
                     {
-                        var outgoingBubble = new OutgoingMessageBubble();
-                        outgoingBubble.SetMessage(message.Message, message.Timestamp);
-                        flowLayoutPanelMessages.Controls.Add(outgoingBubble);
-                        if (flowLayoutPanelMessages.Controls.Count > 0)
+                        if (message.User1 == Email)
                         {
-                            flowLayoutPanelMessages.ScrollControlIntoView(flowLayoutPanelMessages.Controls[flowLayoutPanelMessages.Controls.Count - 1]);
+                            var outgoingBubble = new OutgoingMessageBubble();
+                            outgoingBubble.SetMessage(message.Message, message.Timestamp);
+                            flowLayoutPanelMessages.Controls.Add(outgoingBubble);
                         }
-                    }
-                    else
-                    {
-                        try
+                        else
                         {
                             var incomingBubble = new IncomingMessageBubble();
                             incomingBubble.SetMessage(message.Message, message.Timestamp);
                             flowLayoutPanelMessages.Controls.Add(incomingBubble);
-                            if (flowLayoutPanelMessages.Controls.Count > 0)
-                            {
-                                flowLayoutPanelMessages.ScrollControlIntoView(flowLayoutPanelMessages.Controls[flowLayoutPanelMessages.Controls.Count - 1]);
-                            }
-                        }
-                        catch (Exception ex)
-                        {
-                            MessageBox.Show(ex.Message);
                         }
 
-                    }
+                        // Cuộn tới tin nhắn mới nhất
+                        if (flowLayoutPanelMessages.Controls.Count > 0)
+                        {
+                            flowLayoutPanelMessages.ScrollControlIntoView(
+                                flowLayoutPanelMessages.Controls[flowLayoutPanelMessages.Controls.Count - 1]);
+                        }
+                    }));
                 }
                 catch (Exception ex)
                 {
@@ -243,12 +245,22 @@ namespace ĐồÁn_Nhóm15
                     var outgoingBubble = new OutgoingMessageBubble();
                     outgoingBubble.SetMessage(message.Message, message.Timestamp);
                     flowLayoutPanelMessages.Controls.Add(outgoingBubble);
+                    // Cuộn tới tin nhắn mới nhất
+                    if (flowLayoutPanelMessages.Controls.Count > 0)
+                    {
+                        flowLayoutPanelMessages.ScrollControlIntoView(flowLayoutPanelMessages.Controls[flowLayoutPanelMessages.Controls.Count - 1]);
+                    }
                 }
                 else
                 {
                     var incomingBubble = new IncomingMessageBubble();
                     incomingBubble.SetMessage(message.Message, message.Timestamp);
                     flowLayoutPanelMessages.Controls.Add(incomingBubble);
+                    // Cuộn tới tin nhắn mới nhất
+                    if (flowLayoutPanelMessages.Controls.Count > 0)
+                    {
+                        flowLayoutPanelMessages.ScrollControlIntoView(flowLayoutPanelMessages.Controls[flowLayoutPanelMessages.Controls.Count - 1]);
+                    }
                 }
             }
             catch (Exception ex)

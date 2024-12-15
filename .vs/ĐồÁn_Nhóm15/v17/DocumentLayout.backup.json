@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\AddingServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\AddingServer\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|d:\\addingserver\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|d:\\addingserver\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\AddingServer\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "Server\\Program.cs",
               "ToolTip": "D:\\AddingServer\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAUwEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T20:18:33.72Z",
               "IsPinned": true,
@@ -82,7 +82,7 @@
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
               "ToolTip": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
               "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAA0wFEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwHIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T01:44:21.474Z",
               "IsPinned": true,
@@ -109,8 +109,7 @@
               "ToolTip": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs [Design]",
               "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T07:46:09.225Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-14T07:46:09.225Z"
             },
             {
               "$type": "Document",
@@ -156,8 +155,7 @@
               "RelativeToolTip": "Server\\Server.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-13T02:59:17.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T02:59:17.376Z"
             },
             {
               "$type": "Document",
