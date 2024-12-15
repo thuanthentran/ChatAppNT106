@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Net;
+using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 using System.Web.UI.WebControls;
@@ -11,27 +14,29 @@ using System.Windows.Forms;
 using Guna.UI2.WinForms;
 using MongoDB.Bson;
 using MongoDB.Driver;
+using MongoDB.Driver.Core.Events;
+using SharpCompress.Crypto;
+using Newtonsoft.Json;
 
 namespace ĐồÁn_Nhóm15
 {
     public partial class FormChat : Form
     {
         private DatabaseHelper dbHelper;
-        //private Timer updateTimer;
         public string Email;
         public string Name;
         private string currentUserEmail;
         private string otherUserEmail;
         private DateTime lastFetchedTime = DateTime.MinValue; // Khởi tạo với thời gian tối thiểu
+        private TcpClient _client;
+        private NetworkStream _stream;
 
         public FormChat()
         {
             InitializeComponent();
             dbHelper = new DatabaseHelper("NMM");
             textBoxEmail.TextChanged += new EventHandler(textBoxEmail_TextChanged);
-            //updateTimer = new Timer();
-            updateTimer.Interval = 5000; // Cập nhật mỗi 2 giây
-            updateTimer.Tick += UpdateTimer_Tick;
+            
         }
 
         private void FormChat_Load(object sender, EventArgs e)
@@ -39,16 +44,84 @@ namespace ĐồÁn_Nhóm15
             currentUserEmail = Email;
             label1.Text = Name;
             label2.Text = Email;
-            updateTimer.Start();
             LoadUserChats();
-            //Console.WriteLine("FormChat loaded. CurrentUserEmail: " + currentUserEmail + ", Name: " + Name);
+            Connect();
         }
+        public class TempMessage
+        {
+            public string User1 { get; set; }
+            public string User2 { get; set; }
+            public string Message { get; set; }
+            public DateTime Timestamp { get; set; }
+        }
+        private async void Connect ()
+        {
+            _client = new TcpClient(IPAddress.Loopback.ToString(), 12345);
+            _stream = _client.GetStream();
+            var emailMessage = new { User1 = Email };  // Chỉ gửi email cho server
+            var emailJson = JsonConvert.SerializeObject(emailMessage);
+            var buffer = Encoding.UTF8.GetBytes(emailJson);
 
+            try
+            {
+                await _stream.WriteAsync(buffer, 0, buffer.Length);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            while (true)
+            {
+                try
+                {
+                    buffer = new byte[1024];
+                    int received = await _stream.ReadAsync(buffer, 0, buffer.Length);
+                    var message_raw = Encoding.UTF8.GetString(buffer, 0, received);
+                    Console.WriteLine($"Received message: {message_raw}");
+                    var message = JsonConvert.DeserializeObject<TempMessage>(message_raw);
+                    Console.WriteLine($"User1: {message.User1}");
+                    Console.WriteLine($"User2: {message.User2}");
+                    Console.WriteLine($"Message: {message.Message}");
+                    Console.WriteLine($"Timestamp: {message.Timestamp}");
+                    if (message.User1 == Email)
+                    {
+                        var outgoingBubble = new OutgoingMessageBubble();
+                        outgoingBubble.SetMessage(message.Message, message.Timestamp);
+                        flowLayoutPanelMessages.Controls.Add(outgoingBubble);
+                        if (flowLayoutPanelMessages.Controls.Count > 0)
+                        {
+                            flowLayoutPanelMessages.ScrollControlIntoView(flowLayoutPanelMessages.Controls[flowLayoutPanelMessages.Controls.Count - 1]);
+                        }
+                    }
+                    else
+                    {
+                        try
+                        {
+                            var incomingBubble = new IncomingMessageBubble();
+                            incomingBubble.SetMessage(message.Message, message.Timestamp);
+                            flowLayoutPanelMessages.Controls.Add(incomingBubble);
+                            if (flowLayoutPanelMessages.Controls.Count > 0)
+                            {
+                                flowLayoutPanelMessages.ScrollControlIntoView(flowLayoutPanelMessages.Controls[flowLayoutPanelMessages.Controls.Count - 1]);
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show(ex.Message);
+                        }
+
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+        }
         private void UpdateTimer_Tick(object sender, EventArgs e)
         {
             if (!string.IsNullOrEmpty(otherUserEmail))
             {
-                // Kiểm tra nếu lastFetchedTime có thay đổi, sau đó mới gọi DisplayChatHistory
                 DisplayChatHistory(currentUserEmail, otherUserEmail);
             }
         }
@@ -56,7 +129,6 @@ namespace ĐồÁn_Nhóm15
         private void DisplayChatHistory(string user1, string user2)
         {
             // Xóa toàn bộ tin nhắn cũ trước khi hiển thị tin nhắn mới
-            //flowLayoutPanelMessages.Controls.Clear();
 
             // Lấy các tin nhắn giữa hai người dùng
             var messages = dbHelper.GetNewChatMessages(user1, user2, lastFetchedTime);
@@ -93,13 +165,11 @@ namespace ĐồÁn_Nhóm15
         private void textBoxEmail_TextChanged(object sender, EventArgs e)
         {
             string email = textBoxEmail.Text;
-            //Console.WriteLine("Searching for users with email: " + email);
             var users = dbHelper.SearchUsersByEmail(email);
             panelResult.Controls.Clear(); // Xóa kết quả cũ
 
             foreach (var user in users)
             {
-                //Console.WriteLine("User found: " + user.email);
                 var searchResult = new UserSearch(); // Tạo UserSearch mới
                 searchResult.SetUserInfo(user.email, user.name);
                 searchResult.UserClicked += new EventHandler(UserSearch_UserClicked); // Đăng ký sự kiện UserClicked
@@ -152,7 +222,7 @@ namespace ĐồÁn_Nhóm15
             }
         }
 
-        private void SendMessage(string user1, string user2, string messageText)
+        private async void SendMessage(string user1, string user2, string messageText)
         {
             var message = new ChatMessage
             {
@@ -161,14 +231,30 @@ namespace ĐồÁn_Nhóm15
                 Message = messageText,
                 Timestamp = DateTime.Now
             };
-            dbHelper.InsertChatMessage(message);
+            var messageJson = JsonConvert.SerializeObject(message);
+            var buffer = Encoding.UTF8.GetBytes(messageJson);
 
-            // Chỉ gọi lại DisplayChatHistory nếu user2 được gán đúng
-            if (otherUserEmail == user2)
+            // Gửi tin nhắn tới server
+            try
             {
-                DisplayChatHistory(user1, user2);
+                await _stream.WriteAsync(buffer, 0, buffer.Length);
+                if (message.User1 == user1)
+                {
+                    var outgoingBubble = new OutgoingMessageBubble();
+                    outgoingBubble.SetMessage(message.Message, message.Timestamp);
+                    flowLayoutPanelMessages.Controls.Add(outgoingBubble);
+                }
+                else
+                {
+                    var incomingBubble = new IncomingMessageBubble();
+                    incomingBubble.SetMessage(message.Message, message.Timestamp);
+                    flowLayoutPanelMessages.Controls.Add(incomingBubble);
+                }
             }
-
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
             // Tải lại danh sách người dùng để cập nhật
             LoadUserChats();
         }
@@ -191,14 +277,6 @@ namespace ĐồÁn_Nhóm15
         private void guna2TextBox1_TextChanged(object sender, EventArgs e) { }
 
         private void textBox2_TextChanged(object sender, EventArgs e) {
-            if (messageTextBox.Text == "")
-            {
-                sendButton.Enabled = false;
-            }
-            else if (messageTextBox.Text != "")
-            {
-                messageTextBox.Enabled = true;
-            }
         }
 
         private void panelResult_Paint(object sender, PaintEventArgs e) { }

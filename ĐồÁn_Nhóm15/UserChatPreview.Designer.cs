@@ -37,8 +37,8 @@
             this.labelUserName.AutoSize = true;
             this.labelUserName.BackColor = System.Drawing.Color.SeaGreen;
             this.labelUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.labelUserName.ForeColor = System.Drawing.Color.White;
-            this.labelUserName.Location = new System.Drawing.Point(14, 11);
+            this.labelUserName.ForeColor = System.Drawing.Color.Transparent;
+            this.labelUserName.Location = new System.Drawing.Point(16, 14);
             this.labelUserName.Name = "labelUserName";
             this.labelUserName.Size = new System.Drawing.Size(163, 26);
             this.labelUserName.TabIndex = 0;
@@ -48,7 +48,7 @@
             // 
             this.labelLastMessage.AutoSize = true;
             this.labelLastMessage.BackColor = System.Drawing.Color.MediumSeaGreen;
-            this.labelLastMessage.Location = new System.Drawing.Point(17, 45);
+            this.labelLastMessage.Location = new System.Drawing.Point(20, 43);
             this.labelLastMessage.Name = "labelLastMessage";
             this.labelLastMessage.Size = new System.Drawing.Size(92, 13);
             this.labelLastMessage.TabIndex = 1;

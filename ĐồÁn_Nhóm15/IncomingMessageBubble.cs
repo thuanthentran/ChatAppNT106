@@ -28,7 +28,11 @@ namespace ĐồÁn_Nhóm15
             DateTime dateTime = DateTime.Parse(timestamp.ToString());
             lblTimestamp.Text = dateTime.ToString("dd/MM/yyyy HH:mm");
         }
+        /*public void SetMessage(string message)
+        {
+            lblMessage.Text = message;
 
+        }*/
         private void IncomingMessageBubble_Load(object sender, EventArgs e)
         {
 

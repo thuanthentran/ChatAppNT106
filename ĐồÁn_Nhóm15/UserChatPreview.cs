@@ -50,9 +50,7 @@ namespace ĐồÁn_Nhóm15
         }
         private void UserControl_MouseEnter(object sender, EventArgs e)
         {
-            targetColor = Color.White; // Màu khi di chuột vào
-            animationStep = 0;
-            animationTimer.Start();
+            this.BackColor = Color.White;
         }
         private void UserControl_MouseLeave(object sender, EventArgs e)
         {

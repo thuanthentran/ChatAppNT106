@@ -117,11 +117,11 @@
             // 
             // panelUsers
             // 
+            this.panelUsers.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.panelUsers.BackColor = System.Drawing.Color.SeaGreen;
-            this.panelUsers.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelUsers.Location = new System.Drawing.Point(0, 78);
             this.panelUsers.Name = "panelUsers";
-            this.panelUsers.Size = new System.Drawing.Size(350, 560);
+            this.panelUsers.Size = new System.Drawing.Size(353, 560);
             this.panelUsers.TabIndex = 5;
             // 
             // label2
@@ -153,14 +153,14 @@
             this.panel1.Controls.Add(this.messageTextBox);
             this.panel1.Controls.Add(this.flowLayoutPanelMessages);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel1.Location = new System.Drawing.Point(655, 0);
+            this.panel1.Location = new System.Drawing.Point(658, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(694, 641);
+            this.panel1.Size = new System.Drawing.Size(543, 638);
             this.panel1.TabIndex = 6;
             // 
             // sendButton
             // 
-            this.sendButton.Location = new System.Drawing.Point(622, 580);
+            this.sendButton.Location = new System.Drawing.Point(469, 578);
             this.sendButton.Name = "sendButton";
             this.sendButton.Size = new System.Drawing.Size(60, 49);
             this.sendButton.TabIndex = 2;
@@ -171,9 +171,9 @@
             // messageTextBox
             // 
             this.messageTextBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.messageTextBox.Location = new System.Drawing.Point(22, 590);
+            this.messageTextBox.Location = new System.Drawing.Point(20, 589);
             this.messageTextBox.Name = "messageTextBox";
-            this.messageTextBox.Size = new System.Drawing.Size(594, 26);
+            this.messageTextBox.Size = new System.Drawing.Size(435, 26);
             this.messageTextBox.TabIndex = 1;
             this.messageTextBox.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
@@ -185,7 +185,7 @@
             this.flowLayoutPanelMessages.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
             this.flowLayoutPanelMessages.Location = new System.Drawing.Point(0, 0);
             this.flowLayoutPanelMessages.Name = "flowLayoutPanelMessages";
-            this.flowLayoutPanelMessages.Size = new System.Drawing.Size(694, 568);
+            this.flowLayoutPanelMessages.Size = new System.Drawing.Size(543, 568);
             this.flowLayoutPanelMessages.TabIndex = 4;
             this.flowLayoutPanelMessages.WrapContents = false;
             this.flowLayoutPanelMessages.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanelMessages_Paint);
@@ -195,10 +195,10 @@
             this.panel3.BackColor = System.Drawing.Color.SeaGreen;
             this.panel3.Controls.Add(this.label1);
             this.panel3.Controls.Add(this.label2);
-            this.panel3.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel3.Location = new System.Drawing.Point(0, 0);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(350, 78);
+            this.panel3.Size = new System.Drawing.Size(353, 638);
             this.panel3.TabIndex = 2;
             this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
             // 
@@ -209,7 +209,7 @@
             this.panel4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel4.Location = new System.Drawing.Point(305, 0);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(350, 641);
+            this.panel4.Size = new System.Drawing.Size(353, 638);
             this.panel4.TabIndex = 2;
             // 
             // timer1
@@ -220,7 +220,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1349, 641);
+            this.ClientSize = new System.Drawing.Size(1201, 638);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);

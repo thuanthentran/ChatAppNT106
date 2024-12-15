@@ -38,7 +38,7 @@
             this.labelUserName.BackColor = System.Drawing.Color.DarkGreen;
             this.labelUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelUserName.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.labelUserName.Location = new System.Drawing.Point(32, 6);
+            this.labelUserName.Location = new System.Drawing.Point(32, 12);
             this.labelUserName.Name = "labelUserName";
             this.labelUserName.Size = new System.Drawing.Size(57, 20);
             this.labelUserName.TabIndex = 0;
@@ -50,7 +50,7 @@
             this.labelEmail.BackColor = System.Drawing.Color.Green;
             this.labelEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelEmail.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.labelEmail.Location = new System.Drawing.Point(37, 27);
+            this.labelEmail.Location = new System.Drawing.Point(40, 34);
             this.labelEmail.Name = "labelEmail";
             this.labelEmail.Size = new System.Drawing.Size(35, 13);
             this.labelEmail.TabIndex = 1;
@@ -67,7 +67,7 @@
             this.Controls.Add(this.labelUserName);
             this.DoubleBuffered = true;
             this.Name = "UserSearch";
-            this.Size = new System.Drawing.Size(305, 50);
+            this.Size = new System.Drawing.Size(351, 65);
             this.Load += new System.EventHandler(this.UserSearch_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
