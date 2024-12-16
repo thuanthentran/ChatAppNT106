@@ -35,9 +35,9 @@
             // labelUserName
             // 
             this.labelUserName.AutoSize = true;
-            this.labelUserName.BackColor = System.Drawing.Color.SeaGreen;
+            this.labelUserName.BackColor = System.Drawing.Color.Transparent;
             this.labelUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
-            this.labelUserName.ForeColor = System.Drawing.Color.Transparent;
+            this.labelUserName.ForeColor = System.Drawing.Color.White;
             this.labelUserName.Location = new System.Drawing.Point(16, 14);
             this.labelUserName.Name = "labelUserName";
             this.labelUserName.Size = new System.Drawing.Size(163, 26);
@@ -47,7 +47,8 @@
             // labelLastMessage
             // 
             this.labelLastMessage.AutoSize = true;
-            this.labelLastMessage.BackColor = System.Drawing.Color.MediumSeaGreen;
+            this.labelLastMessage.BackColor = System.Drawing.Color.Transparent;
+            this.labelLastMessage.ForeColor = System.Drawing.Color.White;
             this.labelLastMessage.Location = new System.Drawing.Point(20, 43);
             this.labelLastMessage.Name = "labelLastMessage";
             this.labelLastMessage.Size = new System.Drawing.Size(92, 13);
@@ -58,7 +59,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.Userpreview2;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(109)))), ((int)(((byte)(44)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Controls.Add(this.labelLastMessage);
             this.Controls.Add(this.labelUserName);

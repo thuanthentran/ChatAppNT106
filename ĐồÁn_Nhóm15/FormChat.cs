@@ -84,13 +84,7 @@ namespace ĐồÁn_Nhóm15
                     var buffer = new byte[1024];
                     int received = await _stream.ReadAsync(buffer, 0, buffer.Length);
                     var message_raw = Encoding.UTF8.GetString(buffer, 0, received);
-                    Console.WriteLine($"Received message: {message_raw}");
                     var message = JsonConvert.DeserializeObject<TempMessage>(message_raw);
-                    Console.WriteLine($"User1: {message.User1}");
-                    Console.WriteLine($"User2: {message.User2}");
-                    Console.WriteLine($"Message: {message.Message}");
-                    Console.WriteLine($"Timestamp: {message.Timestamp}");
-                    // Sử dụng Invoke để cập nhật giao diện từ UI thread
                     flowLayoutPanelMessages.Invoke((MethodInvoker)(() =>
                     {
                         if (message.User1 == Email)
@@ -112,7 +106,9 @@ namespace ĐồÁn_Nhóm15
                             flowLayoutPanelMessages.ScrollControlIntoView(
                                 flowLayoutPanelMessages.Controls[flowLayoutPanelMessages.Controls.Count - 1]);
                         }
-                    }));
+                        var relatedUserEmail = message.User1 == Email ? message.User2 : message.User1;
+                        MoveChatToTop(relatedUserEmail);
+                }));
                 }
                 catch (Exception ex)
                 {
@@ -262,6 +258,7 @@ namespace ĐồÁn_Nhóm15
                         flowLayoutPanelMessages.ScrollControlIntoView(flowLayoutPanelMessages.Controls[flowLayoutPanelMessages.Controls.Count - 1]);
                     }
                 }
+                MoveChatToTop(user2);
             }
             catch (Exception ex)
             {
@@ -270,9 +267,24 @@ namespace ĐồÁn_Nhóm15
             // Tải lại danh sách người dùng để cập nhật
             LoadUserChats();
         }
+        private void MoveChatToTop(string userEmail)
+        {
+            var controls = panelUsers.Controls.OfType<UserChatPreview>().ToList();
+            var controlToMove = controls.FirstOrDefault(c => c.UserEmail == userEmail);
 
+            if (controlToMove != null)
+            {
+                panelUsers.SuspendLayout();
+                panelUsers.Controls.Clear();
 
-
+                panelUsers.Controls.Add(controlToMove);
+                foreach (var control in controls.Where(c => c != controlToMove))
+                {
+                    panelUsers.Controls.Add(control);
+                }
+                panelUsers.ResumeLayout();
+            }
+        }
 
         private void sendButton_Click(object sender, EventArgs e)
         {
@@ -337,6 +349,11 @@ namespace ĐồÁn_Nhóm15
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panelUsers_Paint(object sender, PaintEventArgs e)
         {
 
         }

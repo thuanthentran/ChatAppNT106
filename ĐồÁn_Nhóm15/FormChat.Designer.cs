@@ -117,12 +117,12 @@
             // 
             // panelUsers
             // 
-            this.panelUsers.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.panelUsers.BackColor = System.Drawing.Color.SeaGreen;
             this.panelUsers.Location = new System.Drawing.Point(0, 78);
             this.panelUsers.Name = "panelUsers";
             this.panelUsers.Size = new System.Drawing.Size(353, 560);
             this.panelUsers.TabIndex = 5;
+            this.panelUsers.Paint += new System.Windows.Forms.PaintEventHandler(this.panelUsers_Paint);
             // 
             // label2
             // 

@@ -35,7 +35,7 @@
             // labelUserName
             // 
             this.labelUserName.AutoSize = true;
-            this.labelUserName.BackColor = System.Drawing.Color.DarkGreen;
+            this.labelUserName.BackColor = System.Drawing.Color.Transparent;
             this.labelUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelUserName.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.labelUserName.Location = new System.Drawing.Point(32, 12);
@@ -47,7 +47,7 @@
             // labelEmail
             // 
             this.labelEmail.AutoSize = true;
-            this.labelEmail.BackColor = System.Drawing.Color.Green;
+            this.labelEmail.BackColor = System.Drawing.Color.Transparent;
             this.labelEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelEmail.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.labelEmail.Location = new System.Drawing.Point(40, 34);
@@ -60,8 +60,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Transparent;
-            this.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.user2;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(109)))), ((int)(((byte)(44)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Controls.Add(this.labelEmail);
             this.Controls.Add(this.labelUserName);

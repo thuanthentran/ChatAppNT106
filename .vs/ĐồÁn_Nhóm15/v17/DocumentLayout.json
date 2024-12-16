@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "D:\\AddingServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\AddingServer\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\userchatpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\userchatpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\AddingServer\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\usersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\usersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|d:\\addingserver\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\AddingServer\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|d:\\addingserver\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|d:\\addingserver\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\AddingServer\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\AddingServer\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\usersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\usersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|d:\\addingserver\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\userchatpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\userchatpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\AddingServer\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\userchatpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\userchatpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|d:\\addingserver\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|d:\\addingserver\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\AddingServer\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\usersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\usersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\AddingServer\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\outgoingmessagebubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\outgoingmessagebubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\AddingServer\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\usersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\usersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|d:\\addingserver\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\AddingServer\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\outgoingmessagebubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -58,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AddingServer\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
@@ -71,18 +75,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T20:18:33.72Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FormChat.cs",
               "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
               "ToolTip": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
               "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAmwGMAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T01:44:21.474Z",
               "IsPinned": true,
@@ -94,44 +97,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "FormChat.Designer.cs",
+              "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.Designer.cs",
+              "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.Designer.cs",
+              "ToolTip": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.Designer.cs",
+              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:56:01.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserSearch.cs",
               "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\UserSearch.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\UserSearch.cs",
               "ToolTip": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\UserSearch.cs",
               "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\UserSearch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAJEmSJOkSwDQAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T07:57:53.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormChat.cs [Design]",
-              "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
-              "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
-              "ToolTip": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs [Design]",
-              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T07:46:09.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserChatPreview.cs",
               "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\UserChatPreview.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\UserChatPreview.cs",
               "ToolTip": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\UserChatPreview.cs",
               "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\UserChatPreview.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADgv1gAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAIAwwEAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T07:49:58.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "UserChatPreview.cs [Design]",
               "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\UserChatPreview.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\UserChatPreview.cs",
@@ -143,7 +148,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "FormChat.cs [Design]",
+              "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
+              "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
+              "ToolTip": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs [Design]",
+              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:46:09.225Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "D:\\AddingServer\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "D:\\AddingServer\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T02:59:17.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OutgoingMessageBubble.cs",
+              "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\OutgoingMessageBubble.cs",
+              "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\OutgoingMessageBubble.cs",
+              "ToolTip": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\OutgoingMessageBubble.cs",
+              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\OutgoingMessageBubble.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:47:39.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "UserSearch.cs [Design]",
               "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\UserSearch.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\UserSearch.cs",
@@ -155,42 +198,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Server.csproj",
-              "DocumentMoniker": "D:\\AddingServer\\Server\\Server.csproj",
-              "RelativeDocumentMoniker": "Server\\Server.csproj",
-              "ToolTip": "D:\\AddingServer\\Server\\Server.csproj",
-              "RelativeToolTip": "Server\\Server.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-13T02:59:17.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OutgoingMessageBubble.cs",
-              "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\OutgoingMessageBubble.cs",
-              "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\OutgoingMessageBubble.cs",
-              "ToolTip": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\OutgoingMessageBubble.cs",
-              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\OutgoingMessageBubble.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T07:47:39.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "OutgoingMessageBubble.cs [Design]",
               "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\OutgoingMessageBubble.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\OutgoingMessageBubble.cs",
               "ToolTip": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\OutgoingMessageBubble.cs [Design]",
               "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\OutgoingMessageBubble.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T07:47:37.814Z"
+              "WhenOpened": "2024-12-14T07:47:37.814Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IncomingMessageBubble.cs",
               "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\IncomingMessageBubble.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\IncomingMessageBubble.cs",
@@ -202,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IncomingMessageBubble.cs [Design]",
               "DocumentMoniker": "D:\\AddingServer\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\IncomingMessageBubble.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\IncomingMessageBubble.cs",

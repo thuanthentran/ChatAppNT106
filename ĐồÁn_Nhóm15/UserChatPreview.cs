@@ -30,7 +30,7 @@ namespace ĐồÁn_Nhóm15
             {
                 control.Click += new EventHandler(UserChatPreview_Click); // Gán sự kiện cho các điều khiển con
             }
-            this.BackColor = Color.Transparent; // Màu gốc
+            this.BackColor = ColorTranslator.FromHtml("#006d2c"); // Màu gốc
             originalColor = this.BackColor;
 
             this.MouseEnter += new EventHandler(UserControl_MouseEnter);
@@ -50,11 +50,11 @@ namespace ĐồÁn_Nhóm15
         }
         private void UserControl_MouseEnter(object sender, EventArgs e)
         {
-            this.BackColor = Color.White;
+            this.BackColor = ColorTranslator.FromHtml("#74c476");
         }
         private void UserControl_MouseLeave(object sender, EventArgs e)
         {
-            this.BackColor = Color.Transparent; // Màu gốc khi không di chuột
+            this.BackColor = ColorTranslator.FromHtml("#006d2c"); ; // Màu gốc khi không di chuột
             //animationStep = 0;
             //animationTimer.Start();
         }
