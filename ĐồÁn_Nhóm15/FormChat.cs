@@ -41,6 +41,7 @@ namespace ĐồÁn_Nhóm15
 
         private void FormChat_Load(object sender, EventArgs e)
         {
+            this.MaximizeBox = false;
             currentUserEmail = Email;
             label1.Text = Name;
             label2.Text = Email;

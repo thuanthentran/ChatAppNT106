@@ -53,7 +53,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(418, 9);
+            this.label1.Location = new System.Drawing.Point(432, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 3;
@@ -63,7 +63,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(418, 42);
+            this.label2.Location = new System.Drawing.Point(432, 43);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(35, 13);
             this.label2.TabIndex = 4;
@@ -73,7 +73,7 @@
             // 
             this.flowLayoutPanelMessages.Location = new System.Drawing.Point(421, 69);
             this.flowLayoutPanelMessages.Name = "flowLayoutPanelMessages";
-            this.flowLayoutPanelMessages.Size = new System.Drawing.Size(278, 394);
+            this.flowLayoutPanelMessages.Size = new System.Drawing.Size(361, 394);
             this.flowLayoutPanelMessages.TabIndex = 5;
             // 
             // Friend
@@ -81,7 +81,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MediumAquamarine;
-            this.ClientSize = new System.Drawing.Size(711, 475);
+            this.ClientSize = new System.Drawing.Size(794, 476);
             this.Controls.Add(this.flowLayoutPanelMessages);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);

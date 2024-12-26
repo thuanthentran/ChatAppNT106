@@ -349,6 +349,7 @@ namespace ĐồÁn_Nhóm15
 
         private void Friend_Load(object sender, EventArgs e)
         {
+            this.MaximizeBox = false;
             currentUserEmail = CurrentUser.currentUser?.Email;
 
             if (string.IsNullOrEmpty(currentUserEmail))

@@ -78,6 +78,7 @@
             this.Controls.Add(this.panelBoard);
             this.Name = "CaroGameForm";
             this.Text = "CaroGameForm";
+            this.Load += new System.EventHandler(this.CaroGameForm_Load_1);
             this.ResumeLayout(false);
             this.PerformLayout();
 

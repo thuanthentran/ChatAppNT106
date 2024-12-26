@@ -55,8 +55,6 @@ namespace ĐồÁn_Nhóm15
         private void UserControl_MouseLeave(object sender, EventArgs e)
         {
             this.BackColor = Color.Transparent; // Màu gốc khi không di chuột
-            //animationStep = 0;
-            //animationTimer.Start();
         }
         private void UserChatPreview_Load(object sender, EventArgs e)
         {
@@ -78,7 +76,6 @@ namespace ĐồÁn_Nhóm15
             {
                 animationTimer.Stop();
                 this.BackColor = targetColor;
-                //if (targetColor == originalColor) targetColor = Color.Empty;// Đảm bảo màu trở về ban đầu { targetColor = Color.Empty;
             }
         }
         private Color BlendColors(Color color1, Color color2, float ratio)

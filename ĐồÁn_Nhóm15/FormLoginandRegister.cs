@@ -41,6 +41,7 @@ namespace ĐồÁn_Nhóm15
         }
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.MaximizeBox = false;
             buttonLogin.PerformClick();
         }
 
@@ -260,15 +261,6 @@ namespace ĐồÁn_Nhóm15
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            /*if (guna2CircleProgressBar1.Value < 100)
-            {
-                guna2CircleProgressBar1.Value += 2;
-            }
-            else
-            {*/
-                //timer1.Stop();
-                
-            //}
         }
 
         private async void guna2Button1_Click_1(object sender, EventArgs e)

@@ -33,12 +33,17 @@
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.button4 = new System.Windows.Forms.Button();
+            this.button13 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
+            this.button12 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.guna2CircleButton1 = new Guna.UI2.WinForms.Guna2CircleButton();
             this.button1 = new System.Windows.Forms.Button();
             this.guna2CustomGradientPanel1 = new Guna.UI2.WinForms.Guna2CustomGradientPanel();
+            this.button5 = new System.Windows.Forms.Button();
             this.panelSetting = new System.Windows.Forms.Panel();
             this.button11 = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
@@ -58,6 +63,7 @@
             this.button10 = new System.Windows.Forms.Button();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.panelHome = new System.Windows.Forms.Panel();
+            this.label6 = new System.Windows.Forms.Label();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.label5 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -65,14 +71,6 @@
             this.labelusername = new System.Windows.Forms.Label();
             this.textBoxPassword = new System.Windows.Forms.TextBox();
             this.textBoxUsername = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.button12 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button13 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.guna2CustomGradientPanel1.SuspendLayout();
             this.panelSetting.SuspendLayout();
@@ -111,12 +109,10 @@
             // panel1
             // 
             this.panel1.Controls.Add(this.button13);
-            this.panel1.Controls.Add(this.button9);
             this.panel1.Controls.Add(this.button8);
             this.panel1.Controls.Add(this.button7);
             this.panel1.Controls.Add(this.button6);
             this.panel1.Controls.Add(this.button12);
-            this.panel1.Controls.Add(this.button4);
             this.panel1.Controls.Add(this.button3);
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.guna2CircleButton1);
@@ -127,16 +123,61 @@
             this.panel1.TabIndex = 4;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
-            // button4
+            // button13
             // 
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(68, 313);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(193, 54);
-            this.button4.TabIndex = 3;
-            this.button4.Text = "HELP";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            this.button13.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.images;
+            this.button13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.button13.Location = new System.Drawing.Point(9, 246);
+            this.button13.Name = "button13";
+            this.button13.Size = new System.Drawing.Size(54, 54);
+            this.button13.TabIndex = 6;
+            this.button13.UseVisualStyleBackColor = true;
+            this.button13.Click += new System.EventHandler(this.button13_Click);
+            // 
+            // button8
+            // 
+            this.button8.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.chat_589708;
+            this.button8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.button8.Location = new System.Drawing.Point(9, 166);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(54, 54);
+            this.button8.TabIndex = 6;
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
+            // 
+            // button7
+            // 
+            this.button7.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.gear_16600271;
+            this.button7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.button7.Location = new System.Drawing.Point(9, 88);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(54, 58);
+            this.button7.TabIndex = 6;
+            this.button7.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
+            // 
+            // button6
+            // 
+            this.button6.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.home_738822;
+            this.button6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.button6.Location = new System.Drawing.Point(9, 20);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(54, 54);
+            this.button6.TabIndex = 6;
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click_1);
+            // 
+            // button12
+            // 
+            this.button12.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button12.Location = new System.Drawing.Point(68, 246);
+            this.button12.Name = "button12";
+            this.button12.Size = new System.Drawing.Size(193, 54);
+            this.button12.TabIndex = 3;
+            this.button12.Text = "FRIENDS";
+            this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
@@ -168,7 +209,7 @@
             this.guna2CircleButton1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.guna2CircleButton1.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.guna2CircleButton1.ForeColor = System.Drawing.Color.White;
-            this.guna2CircleButton1.Location = new System.Drawing.Point(102, 388);
+            this.guna2CircleButton1.Location = new System.Drawing.Point(102, 362);
             this.guna2CircleButton1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2CircleButton1.Name = "guna2CircleButton1";
             this.guna2CircleButton1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
@@ -201,6 +242,18 @@
             this.guna2CustomGradientPanel1.Name = "guna2CustomGradientPanel1";
             this.guna2CustomGradientPanel1.Size = new System.Drawing.Size(301, 593);
             this.guna2CustomGradientPanel1.TabIndex = 4;
+            // 
+            // button5
+            // 
+            this.button5.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.more_17216319;
+            this.button5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.button5.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.button5.Location = new System.Drawing.Point(14, 13);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(44, 44);
+            this.button5.TabIndex = 5;
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // panelSetting
             // 
@@ -410,6 +463,15 @@
             this.panelHome.Size = new System.Drawing.Size(887, 590);
             this.panelHome.TabIndex = 7;
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(691, 15);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(100, 25);
+            this.label6.TabIndex = 7;
+            this.label6.Text = "Friendlist";
+            // 
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.BackColor = System.Drawing.Color.SeaGreen;
@@ -475,93 +537,6 @@
             this.textBoxUsername.Size = new System.Drawing.Size(327, 31);
             this.textBoxUsername.TabIndex = 0;
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(697, 15);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(100, 25);
-            this.label6.TabIndex = 7;
-            this.label6.Text = "Friendlist";
-            // 
-            // button12
-            // 
-            this.button12.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button12.Location = new System.Drawing.Point(68, 246);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(193, 54);
-            this.button12.TabIndex = 3;
-            this.button12.Text = "FRIENDS";
-            this.button12.UseVisualStyleBackColor = true;
-            this.button12.Click += new System.EventHandler(this.button4_Click);
-            // 
-            // button5
-            // 
-            this.button5.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.more_17216319;
-            this.button5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button5.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.button5.Location = new System.Drawing.Point(14, 13);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(44, 44);
-            this.button5.TabIndex = 5;
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
-            // 
-            // button13
-            // 
-            this.button13.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.images;
-            this.button13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button13.Location = new System.Drawing.Point(9, 246);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(54, 54);
-            this.button13.TabIndex = 6;
-            this.button13.UseVisualStyleBackColor = true;
-            this.button13.Click += new System.EventHandler(this.button13_Click);
-            // 
-            // button9
-            // 
-            this.button9.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.speech_bubble_5730473;
-            this.button9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button9.Location = new System.Drawing.Point(9, 314);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(54, 54);
-            this.button9.TabIndex = 6;
-            this.button9.UseVisualStyleBackColor = true;
-            // 
-            // button8
-            // 
-            this.button8.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.chat_589708;
-            this.button8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button8.Location = new System.Drawing.Point(9, 166);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(54, 54);
-            this.button8.TabIndex = 6;
-            this.button8.UseVisualStyleBackColor = true;
-            this.button8.Click += new System.EventHandler(this.button8_Click);
-            // 
-            // button7
-            // 
-            this.button7.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.gear_16600271;
-            this.button7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button7.Location = new System.Drawing.Point(9, 88);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(54, 58);
-            this.button7.TabIndex = 6;
-            this.button7.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button7.UseVisualStyleBackColor = true;
-            this.button7.Click += new System.EventHandler(this.button7_Click);
-            // 
-            // button6
-            // 
-            this.button6.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.home_738822;
-            this.button6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button6.Location = new System.Drawing.Point(9, 20);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(54, 54);
-            this.button6.TabIndex = 6;
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.button6_Click_1);
-            // 
             // FormProfile
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -595,7 +570,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button5;
         private Guna.UI2.WinForms.Guna2CustomGradientPanel guna2CustomGradientPanel1;
-        private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Panel panelSetting;
@@ -610,7 +584,6 @@
         private System.Windows.Forms.TextBox textBoxOldPassword;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.TextBox textBoxYourEmail;
-        private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Button button6;

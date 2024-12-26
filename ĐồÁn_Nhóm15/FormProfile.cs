@@ -36,6 +36,7 @@ namespace ĐồÁn_Nhóm15
         }
         private void Form2_Load(object sender, EventArgs e)
         {
+            this.MaximizeBox = false;
             label2.Text = emailname;
             try
             {

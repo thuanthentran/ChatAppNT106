@@ -46,7 +46,7 @@
             // btnSendOtp
             // 
             this.btnSendOtp.Location = new System.Drawing.Point(238, 106);
-            this.btnSendOtp.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnSendOtp.Margin = new System.Windows.Forms.Padding(2);
             this.btnSendOtp.Name = "btnSendOtp";
             this.btnSendOtp.Size = new System.Drawing.Size(64, 19);
             this.btnSendOtp.TabIndex = 0;
@@ -57,7 +57,7 @@
             // txtEmail
             // 
             this.txtEmail.Location = new System.Drawing.Point(103, 66);
-            this.txtEmail.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtEmail.Margin = new System.Windows.Forms.Padding(2);
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(200, 20);
             this.txtEmail.TabIndex = 1;
@@ -65,7 +65,7 @@
             // txtNewPassword
             // 
             this.txtNewPassword.Location = new System.Drawing.Point(103, 147);
-            this.txtNewPassword.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtNewPassword.Margin = new System.Windows.Forms.Padding(2);
             this.txtNewPassword.Name = "txtNewPassword";
             this.txtNewPassword.PasswordChar = '●';
             this.txtNewPassword.Size = new System.Drawing.Size(200, 20);
@@ -74,7 +74,7 @@
             // txtConfirmPassword
             // 
             this.txtConfirmPassword.Location = new System.Drawing.Point(103, 189);
-            this.txtConfirmPassword.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtConfirmPassword.Margin = new System.Windows.Forms.Padding(2);
             this.txtConfirmPassword.Name = "txtConfirmPassword";
             this.txtConfirmPassword.PasswordChar = '●';
             this.txtConfirmPassword.Size = new System.Drawing.Size(200, 20);
@@ -84,15 +84,15 @@
             // txtOtp
             // 
             this.txtOtp.Location = new System.Drawing.Point(103, 107);
-            this.txtOtp.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtOtp.Margin = new System.Windows.Forms.Padding(2);
             this.txtOtp.Name = "txtOtp";
             this.txtOtp.Size = new System.Drawing.Size(132, 20);
             this.txtOtp.TabIndex = 4;
             // 
             // btnVerifyOtp
             // 
-            this.btnVerifyOtp.Location = new System.Drawing.Point(142, 258);
-            this.btnVerifyOtp.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnVerifyOtp.Location = new System.Drawing.Point(134, 257);
+            this.btnVerifyOtp.Margin = new System.Windows.Forms.Padding(2);
             this.btnVerifyOtp.Name = "btnVerifyOtp";
             this.btnVerifyOtp.Size = new System.Drawing.Size(64, 28);
             this.btnVerifyOtp.TabIndex = 5;
@@ -158,7 +158,7 @@
             this.showPLCbx2.AutoSize = true;
             this.showPLCbx2.ForeColor = System.Drawing.SystemColors.HighlightText;
             this.showPLCbx2.Location = new System.Drawing.Point(256, 221);
-            this.showPLCbx2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.showPLCbx2.Margin = new System.Windows.Forms.Padding(2);
             this.showPLCbx2.Name = "showPLCbx2";
             this.showPLCbx2.Size = new System.Drawing.Size(53, 17);
             this.showPLCbx2.TabIndex = 14;
@@ -171,7 +171,7 @@
             this.showcbnp.AutoSize = true;
             this.showcbnp.ForeColor = System.Drawing.SystemColors.HighlightText;
             this.showcbnp.Location = new System.Drawing.Point(256, 169);
-            this.showcbnp.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.showcbnp.Margin = new System.Windows.Forms.Padding(2);
             this.showcbnp.Name = "showcbnp";
             this.showcbnp.Size = new System.Drawing.Size(53, 17);
             this.showcbnp.TabIndex = 15;
@@ -198,7 +198,7 @@
             this.Controls.Add(this.txtNewPassword);
             this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.btnSendOtp);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FormForgotPassword";
             this.Text = "FormForgotPassword";
             this.Load += new System.EventHandler(this.FormForgotPassword_Load);

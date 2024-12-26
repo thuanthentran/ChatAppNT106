@@ -156,6 +156,7 @@ namespace ĐồÁn_Nhóm15
 
         private void FormForgotPassword_Load(object sender, EventArgs e)
         {
+            this.MaximizeBox = false;
         }
     }
 }
