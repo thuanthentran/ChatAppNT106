@@ -1,0 +1,734 @@
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe.config
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.pdb
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Form1.resources
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.exe
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.pdb
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\___n_Nh_.22CAFA49.Up2Date
+C:\Users\HP\OneDrive\Máy tính\Lập Trình Mạng Căn Bản\ĐồÁn_Nhóm15_zip (2)\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe.config
+C:\Users\HP\OneDrive\Máy tính\Lập Trình Mạng Căn Bản\ĐồÁn_Nhóm15_zip (2)\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe
+C:\Users\HP\OneDrive\Máy tính\Lập Trình Mạng Căn Bản\ĐồÁn_Nhóm15_zip (2)\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.pdb
+C:\Users\HP\OneDrive\Máy tính\Lập Trình Mạng Căn Bản\ĐồÁn_Nhóm15_zip (2)\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Guna.UI2.dll
+C:\Users\HP\OneDrive\Máy tính\Lập Trình Mạng Căn Bản\ĐồÁn_Nhóm15_zip (2)\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\Lập Trình Mạng Căn Bản\ĐồÁn_Nhóm15_zip (2)\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Form1.resources
+C:\Users\HP\OneDrive\Máy tính\Lập Trình Mạng Căn Bản\ĐồÁn_Nhóm15_zip (2)\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\Lập Trình Mạng Căn Bản\ĐồÁn_Nhóm15_zip (2)\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Máy tính\Lập Trình Mạng Căn Bản\ĐồÁn_Nhóm15_zip (2)\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\Lập Trình Mạng Căn Bản\ĐồÁn_Nhóm15_zip (2)\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\___n_Nh_.22CAFA49.Up2Date
+C:\Users\HP\OneDrive\Máy tính\Lập Trình Mạng Căn Bản\ĐồÁn_Nhóm15_zip (2)\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.exe
+C:\Users\HP\OneDrive\Máy tính\Lập Trình Mạng Căn Bản\ĐồÁn_Nhóm15_zip (2)\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.pdb
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe.config
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.pdb
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Guna.UI2.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.AssemblyReference.cache
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Form1.resources
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Properties.Resources.resources
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.GenerateResource.cache
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.CoreCompileInputs.cache
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\___n_Nh_.22CAFA49.Up2Date
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.exe
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.pdb
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\CircularProgressBar.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\WinFormAnimation.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\CircularProgressBar.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Form2.resources
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Azure.Core.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Azure.Identity.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Buffers.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.ClientModel.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Memory.Data.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Memory.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.AccessControl.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Permissions.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Json.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.ValueTuple.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Azure.Core.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Azure.Identity.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Buffers.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.ClientModel.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Memory.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Memory.Data.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.AccessControl.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Permissions.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Json.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.ValueTuple.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Azure.Core.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Azure.Identity.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\CircularProgressBar.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Buffers.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.ClientModel.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Memory.Data.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Memory.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Permissions.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\WinFormAnimation.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Azure.Core.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Azure.Identity.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\CircularProgressBar.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Buffers.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.ClientModel.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Memory.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Memory.Data.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Permissions.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Form2.resources
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\mongocrypt.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\DnsClient.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Bson.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\SharpCompress.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Snappier.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ZstdSharp.dll
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.pdb
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\DnsClient.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Bson.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Libmongocrypt.pdb
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Snappier.xml
+C:\Users\phucd\Downloads\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\mongocrypt.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\DnsClient.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Bson.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\SharpCompress.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Snappier.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ZstdSharp.dll
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.pdb
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\DnsClient.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Bson.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Libmongocrypt.pdb
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Snappier.xml
+C:\Users\DELL\OneDrive\Documents\Máy tính\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\mongocrypt.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe.config
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.pdb
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Azure.Core.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Azure.Identity.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\BCrypt.Net-Next.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\CircularProgressBar.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\DnsClient.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Guna.UI2.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Win32.Registry.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Bson.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.Core.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\SharpCompress.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Snappier.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Buffers.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.ClientModel.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Memory.Data.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Memory.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Numerics.Vectors.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.AccessControl.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Permissions.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Principal.Windows.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encodings.Web.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Json.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.ValueTuple.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\WinFormAnimation.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ZstdSharp.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.pdb
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Azure.Core.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Azure.Identity.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\BCrypt.Net-Next.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\CircularProgressBar.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\DnsClient.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Win32.Registry.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Bson.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.Core.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Libmongocrypt.pdb
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\Snappier.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Buffers.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.ClientModel.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Memory.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Memory.Data.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Numerics.Vectors.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.AccessControl.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Permissions.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Security.Principal.Windows.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encodings.Web.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Text.Json.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\System.ValueTuple.xml
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.AssemblyReference.cache
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Properties.Resources.resources
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.GenerateResource.cache
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.CoreCompileInputs.cache
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\___n_Nh_.22CAFA49.Up2Date
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.exe
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.pdb
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormLoginandRegister.resources
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormProfile.resources
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.ChatUser.resources
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormChat.resources
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.UserSearch.resources
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.IncomingMessageBubble.resources
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.OutgoingMessageBubble.resources
+D:\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.UserChatPreview.resources
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\mongocrypt.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe.config
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.pdb
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Azure.Core.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Azure.Identity.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\BCrypt.Net-Next.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\CircularProgressBar.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\DnsClient.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Guna.UI2.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Win32.Registry.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Bson.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.Core.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\SharpCompress.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Snappier.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Buffers.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.ClientModel.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Memory.Data.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Memory.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Numerics.Vectors.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Security.AccessControl.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Security.Permissions.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Security.Principal.Windows.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encodings.Web.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Text.Json.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.ValueTuple.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\WinFormAnimation.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\ZstdSharp.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.pdb
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Azure.Core.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Azure.Identity.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\BCrypt.Net-Next.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\CircularProgressBar.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\DnsClient.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Win32.Registry.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Bson.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.Core.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Libmongocrypt.pdb
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Snappier.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Buffers.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.ClientModel.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Memory.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Memory.Data.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Numerics.Vectors.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Security.AccessControl.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Security.Permissions.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Security.Principal.Windows.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encodings.Web.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Text.Json.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\System.ValueTuple.xml
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.AssemblyReference.cache
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.ChatUser.resources
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormChat.resources
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormLoginandRegister.resources
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormProfile.resources
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.IncomingMessageBubble.resources
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.OutgoingMessageBubble.resources
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Properties.Resources.resources
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.UserChatPreview.resources
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.UserSearch.resources
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.GenerateResource.cache
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.CoreCompileInputs.cache
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\___n_Nh_.22CAFA49.Up2Date
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.exe
+D:\AddingServer\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.pdb
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Newtonsoft.Json.dll
+D:\AddingServer\ĐồÁn_Nhóm15\bin\Debug\Newtonsoft.Json.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\mongocrypt.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe.config
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.pdb
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Azure.Core.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Azure.Identity.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\BCrypt.Net-Next.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\CircularProgressBar.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\DnsClient.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Guna.UI2.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Win32.Registry.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Bson.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.Core.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Newtonsoft.Json.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\SharpCompress.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Snappier.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Buffers.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.ClientModel.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Memory.Data.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Memory.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Numerics.Vectors.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Security.AccessControl.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Security.Permissions.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Security.Principal.Windows.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encodings.Web.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Text.Json.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.ValueTuple.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\WinFormAnimation.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\ZstdSharp.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.pdb
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Azure.Core.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Azure.Identity.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\BCrypt.Net-Next.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\CircularProgressBar.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\DnsClient.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Win32.Registry.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Bson.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.Core.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Libmongocrypt.pdb
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Newtonsoft.Json.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\Snappier.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Buffers.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.ClientModel.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Memory.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Memory.Data.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Numerics.Vectors.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Security.AccessControl.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Security.Permissions.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Security.Principal.Windows.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encodings.Web.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Text.Json.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\System.ValueTuple.xml
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.AssemblyReference.cache
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.ChatUser.resources
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormChat.resources
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormLoginandRegister.resources
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormProfile.resources
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.IncomingMessageBubble.resources
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.OutgoingMessageBubble.resources
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Properties.Resources.resources
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.UserChatPreview.resources
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.UserSearch.resources
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.GenerateResource.cache
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.CoreCompileInputs.cache
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\___n_Nh_.22CAFA49.Up2Date
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.exe
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.pdb
+D:\demo\ChatAppNT106-new-branch\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.CaroGameForm.resources
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\mongocrypt.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe.config
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.exe
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\ĐồÁn_Nhóm15.pdb
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Azure.Core.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Azure.Identity.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\BCrypt.Net-Next.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\CircularProgressBar.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\DnsClient.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Guna.UI2.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Win32.Registry.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Bson.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Newtonsoft.Json.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\SharpCompress.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Snappier.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Buffers.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.ClientModel.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Memory.Data.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Memory.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Numerics.Vectors.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Security.AccessControl.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Security.Permissions.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Security.Principal.Windows.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encodings.Web.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Text.Json.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.ValueTuple.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\WinFormAnimation.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\ZstdSharp.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.pdb
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.Core.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\AWSSDK.SecurityToken.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Azure.Core.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Azure.Identity.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\BCrypt.Net-Next.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\CircularProgressBar.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\DnsClient.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Microsoft.Win32.Registry.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Bson.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Driver.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\MongoDB.Libmongocrypt.pdb
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Newtonsoft.Json.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\Snappier.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Buffers.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.ClientModel.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Memory.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Memory.Data.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Numerics.Vectors.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Security.AccessControl.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Security.Permissions.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Security.Principal.Windows.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Text.Encodings.Web.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Text.Json.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\System.ValueTuple.xml
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.AssemblyReference.cache
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.CaroGameForm.resources
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.ChatUser.resources
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormChat.resources
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormLoginandRegister.resources
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormProfile.resources
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.IncomingMessageBubble.resources
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.OutgoingMessageBubble.resources
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Properties.Resources.resources
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.UserChatPreview.resources
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.UserSearch.resources
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.GenerateResource.cache
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.csproj.CoreCompileInputs.cache
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\___n_Nh_.22CAFA49.Up2Date
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.exe
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.pdb
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.Friend.resources
+D:\ChatApp\ChatApp-master\ChatApp-master\ĐồÁn_Nhóm15\obj\Debug\ĐồÁn_Nhóm15.FormForgotPassword.resources
