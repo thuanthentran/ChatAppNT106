@@ -257,7 +257,7 @@ namespace ĐồÁn_Nhóm15
 
         private void CaroGameForm_Load_1(object sender, EventArgs e)
         {
-
+            this.MaximizeBox = false;
         }
     }
 }
