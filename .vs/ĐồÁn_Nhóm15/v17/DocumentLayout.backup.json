@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formloginandregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formloginandregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|d:\\chatapp\\chatapp-master\\chatapp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formloginandregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formloginandregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +23,24 @@
       "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formloginandregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formloginandregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB5760EC-FE05-47E3-BEDD-EC045F565D8C}|ServerCaroGame\\ServerCaroGame.csproj|d:\\chatapp\\chatapp-master\\chatapp-master\\servercarogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5760EC-FE05-47E3-BEDD-EC045F565D8C}|ServerCaroGame\\ServerCaroGame.csproj|solutionrelative:servercarogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formloginandregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formloginandregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|d:\\chatapp\\chatapp-master\\chatapp-master\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|d:\\chatapp\\chatapp-master\\chatapp-master\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6EE2487-6777-4D23-9BE4-B3D30ACC6E1C}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|d:\\chatapp\\chatapp-master\\chatapp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|solutionrelative:\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0E26BAD-AB20-41E5-BB09-6FD06F529CFE}|\u0110\u1ED3\u00C1n_Nh\u00F3m15\\\u0110\u1ED3\u00C1n_Nh\u00F3m15.csproj|D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0111\u1ED3\u00E1n_nh\u00F3m15\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -58,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Friend.cs [Design]",
               "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\Friend.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\Friend.cs",
@@ -75,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Friend.cs",
               "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\Friend.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\Friend.cs",
@@ -101,37 +113,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormForgotPassword.cs",
-              "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs",
-              "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs",
-              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs",
-              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAnwJ4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T17:31:00.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "FormLoginandRegister.cs [Design]",
               "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormLoginandRegister.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormLoginandRegister.cs",
-              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormLoginandRegister.cs [Design]",
-              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormLoginandRegister.cs [Design]",
+              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormLoginandRegister.cs [Design]*",
+              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormLoginandRegister.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T17:31:14.67Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FormLoginandRegister.cs",
               "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormLoginandRegister.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormLoginandRegister.cs",
-              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormLoginandRegister.cs",
-              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormLoginandRegister.cs",
+              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormLoginandRegister.cs*",
+              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormLoginandRegister.cs*",
               "ViewState": "AgIAABEAAAAAAAAAAAAnwCsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T17:31:17.6Z",
@@ -139,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormProfile.cs [Design]",
               "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormProfile.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormProfile.cs",
@@ -151,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "FormProfile.cs",
               "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormProfile.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormProfile.cs",
@@ -164,65 +163,113 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormForgotPassword.cs [Design]",
-              "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs",
-              "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs",
-              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs [Design]",
-              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T17:30:59.432Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "FormChat.cs",
               "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
-              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs*",
-              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAIAwwCsAAAAMAAAAAAAAAA==",
+              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
+              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T02:31:23.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\ServerCaroGame\\Program.cs",
+              "RelativeDocumentMoniker": "ServerCaroGame\\Program.cs",
+              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\ServerCaroGame\\Program.cs",
+              "RelativeToolTip": "ServerCaroGame\\Program.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAEwLkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T01:50:37.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormForgotPassword.cs",
+              "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs",
+              "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs",
+              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs",
+              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAnwJ4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:31:00.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Server",
+              "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T01:45:48.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T01:45:50.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormForgotPassword.cs [Design]",
+              "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs",
+              "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs",
+              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs [Design]",
+              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormForgotPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:30:59.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "FormChat.cs [Design]",
               "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs",
-              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs [Design]*",
-              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs [Design]*",
+              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs [Design]",
+              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\FormChat.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T17:19:12.736Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "CaroGameForm.cs",
               "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\CaroGameForm.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\CaroGameForm.cs",
-              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\CaroGameForm.cs*",
-              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\CaroGameForm.cs*",
+              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\CaroGameForm.cs",
+              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\CaroGameForm.cs",
               "ViewState": "AgIAAOMAAAAAAAAAAAAEwAMBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T17:29:57.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T17:29:57.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "CaroGameForm.cs [Design]",
               "DocumentMoniker": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\CaroGameForm.cs",
               "RelativeDocumentMoniker": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\CaroGameForm.cs",
-              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\CaroGameForm.cs [Design]*",
-              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\CaroGameForm.cs [Design]*",
+              "ToolTip": "D:\\ChatApp\\ChatApp-master\\ChatApp-master\\\u0110\u1ED3\u00C1n_Nh\u00F3m15\\CaroGameForm.cs [Design]",
+              "RelativeToolTip": "\u0110\u1ED3\u00C1n_Nh\u00F3m15\\CaroGameForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T17:29:55.755Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-26T17:29:55.755Z"
             }
           ]
         },

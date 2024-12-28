@@ -77,3 +77,4 @@ D:\ChatApp\ChatApp-master\ChatApp-master\Server\obj\Debug\net8.0-windows\refint\
 D:\ChatApp\ChatApp-master\ChatApp-master\Server\obj\Debug\net8.0-windows\Server.pdb
 D:\ChatApp\ChatApp-master\ChatApp-master\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
 D:\ChatApp\ChatApp-master\ChatApp-master\Server\obj\Debug\net8.0-windows\ref\Server.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\Server\obj\Debug\net8.0-windows\Server.sourcelink.json

@@ -32,6 +32,7 @@
             this.buttonLogin = new System.Windows.Forms.Button();
             this.buttonRegister = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label10 = new System.Windows.Forms.Label();
             this.showPLCbx = new System.Windows.Forms.CheckBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -58,7 +59,6 @@
             this.label4 = new System.Windows.Forms.Label();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.label10 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
@@ -100,12 +100,23 @@
             this.panel1.Controls.Add(this.passLoginTxb);
             this.panel1.Controls.Add(this.emailLoginTxb);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(29, 56);
+            this.panel1.Location = new System.Drawing.Point(25, 50);
             this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(397, 338);
             this.panel1.TabIndex = 2;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.ForeColor = System.Drawing.Color.White;
+            this.label10.Location = new System.Drawing.Point(149, 264);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(92, 13);
+            this.label10.TabIndex = 14;
+            this.label10.Text = "Forgot Password?";
+            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // showPLCbx
             // 
@@ -174,6 +185,7 @@
             this.passLoginTxb.FillColor = System.Drawing.Color.DarkGreen;
             this.passLoginTxb.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.passLoginTxb.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.passLoginTxb.ForeColor = System.Drawing.Color.White;
             this.passLoginTxb.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.passLoginTxb.Location = new System.Drawing.Point(124, 136);
             this.passLoginTxb.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
@@ -196,6 +208,7 @@
             this.emailLoginTxb.FillColor = System.Drawing.Color.DarkGreen;
             this.emailLoginTxb.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.emailLoginTxb.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.emailLoginTxb.ForeColor = System.Drawing.Color.White;
             this.emailLoginTxb.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.emailLoginTxb.Location = new System.Drawing.Point(124, 93);
             this.emailLoginTxb.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
@@ -285,6 +298,7 @@
             this.confirmTxb.FillColor = System.Drawing.Color.DarkGreen;
             this.confirmTxb.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.confirmTxb.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.confirmTxb.ForeColor = System.Drawing.Color.White;
             this.confirmTxb.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.confirmTxb.Location = new System.Drawing.Point(127, 192);
             this.confirmTxb.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
@@ -355,6 +369,7 @@
             this.otpTxb.FillColor = System.Drawing.Color.DarkGreen;
             this.otpTxb.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.otpTxb.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.otpTxb.ForeColor = System.Drawing.Color.White;
             this.otpTxb.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.otpTxb.Location = new System.Drawing.Point(124, 232);
             this.otpTxb.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
@@ -377,6 +392,7 @@
             this.emailTxb.FillColor = System.Drawing.Color.DarkGreen;
             this.emailTxb.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.emailTxb.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.emailTxb.ForeColor = System.Drawing.Color.White;
             this.emailTxb.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.emailTxb.Location = new System.Drawing.Point(124, 96);
             this.emailTxb.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
@@ -399,6 +415,7 @@
             this.passTxb.FillColor = System.Drawing.Color.DarkGreen;
             this.passTxb.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.passTxb.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.passTxb.ForeColor = System.Drawing.Color.White;
             this.passTxb.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.passTxb.Location = new System.Drawing.Point(124, 136);
             this.passTxb.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
@@ -456,6 +473,7 @@
             this.nameTxb.FillColor = System.Drawing.Color.DarkGreen;
             this.nameTxb.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.nameTxb.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.nameTxb.ForeColor = System.Drawing.Color.White;
             this.nameTxb.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.nameTxb.Location = new System.Drawing.Point(124, 60);
             this.nameTxb.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
@@ -487,17 +505,6 @@
             // timer1
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.ForeColor = System.Drawing.Color.White;
-            this.label10.Location = new System.Drawing.Point(149, 264);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(92, 13);
-            this.label10.TabIndex = 14;
-            this.label10.Text = "Forgot Password?";
-            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // FormLoginandRegister
             // 
