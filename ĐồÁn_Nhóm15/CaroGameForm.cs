@@ -211,6 +211,14 @@ namespace ĐồÁn_Nhóm15
                                 ResetBoard();
                             }));
                         }
+                        else if (parts[0] == "JOIN_FULL")
+                        {
+                            this.BeginInvoke(new Action(() =>
+                            {
+                                MessageBox.Show("Phòng đã đầy! Vui lòng chọn một phòng khác.");
+                                Disconnect();
+                            }));
+                        }
                         //else if (parts[0] == "TIMEOUT")
                         //{
                         //    // Xử lý khi đối thủ hết thời gian
@@ -227,6 +235,21 @@ namespace ĐồÁn_Nhóm15
                     MessageBox.Show($"Error: {ex.Message}");
                     break;
                 }
+            }
+        }
+
+        private void Disconnect()
+        {
+            try
+            {
+                if (stream != null)
+                    stream.Close();
+                if (client != null)
+                    client.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error during disconnect: {ex.Message}");
             }
         }
 
