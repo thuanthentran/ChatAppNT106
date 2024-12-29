@@ -319,6 +319,7 @@
     <Compile Include="UserSearch.Designer.cs">
       <DependentUpon>UserSearch.cs</DependentUpon>
     </Compile>
+    <Compile Include="VigenereCipher.cs" />
     <EmbeddedResource Include="CaroGameForm.resx">
       <DependentUpon>CaroGameForm.cs</DependentUpon>
     </EmbeddedResource>

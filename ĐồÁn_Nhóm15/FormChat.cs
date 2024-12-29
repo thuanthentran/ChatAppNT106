@@ -57,7 +57,7 @@ namespace ĐồÁn_Nhóm15
         }
         private async void Connect ()
         {
-            _client = new TcpClient(("10.0.55.155"), 12345);
+            _client = new TcpClient(("192.168.2.26"), 12345);
             _stream = _client.GetStream();
             var emailMessage = new { User1 = Email };  // Chỉ gửi email cho server
             var emailJson = JsonConvert.SerializeObject(emailMessage);
@@ -84,10 +84,12 @@ namespace ĐồÁn_Nhóm15
                     Console.WriteLine($"User2: {message.User2}");
                     Console.WriteLine($"Message: {message.Message}");
                     Console.WriteLine($"Timestamp: {message.Timestamp}");
+                    string key = "KEYBOX";//Vigenère
+                    string decryptedMessage = VigenereCipher.Decrypt(message.Message, key); // Giải mã
                     if (message.User1 == Email)
                     {
                         var outgoingBubble = new OutgoingMessageBubble();
-                        outgoingBubble.SetMessage(message.Message, message.Timestamp);
+                        outgoingBubble.SetMessage(decryptedMessage, message.Timestamp);
                         flowLayoutPanelMessages.Controls.Add(outgoingBubble);
                         if (flowLayoutPanelMessages.Controls.Count > 0)
                         {
@@ -99,7 +101,7 @@ namespace ĐồÁn_Nhóm15
                         try
                         {
                             var incomingBubble = new IncomingMessageBubble();
-                            incomingBubble.SetMessage(message.Message, message.Timestamp);
+                            incomingBubble.SetMessage(decryptedMessage, message.Timestamp);
                             flowLayoutPanelMessages.Controls.Add(incomingBubble);
                             if (flowLayoutPanelMessages.Controls.Count > 0)
                             {
@@ -136,19 +138,23 @@ namespace ĐồÁn_Nhóm15
 
             foreach (var message in messages)
             {
+                string key = "KEYBOX"; // Khóa Vigenère
+                string decryptedMessage = VigenereCipher.Decrypt(message.Message, key); // Giải mã
+
                 if (message.User1 == user1)
                 {
                     var outgoingBubble = new OutgoingMessageBubble();
-                    outgoingBubble.SetMessage(message.Message, message.Timestamp);
+                    outgoingBubble.SetMessage(decryptedMessage, message.Timestamp);
                     flowLayoutPanelMessages.Controls.Add(outgoingBubble);
                 }
                 else
                 {
                     var incomingBubble = new IncomingMessageBubble();
-                    incomingBubble.SetMessage(message.Message, message.Timestamp);
+                    incomingBubble.SetMessage(decryptedMessage, message.Timestamp);
                     flowLayoutPanelMessages.Controls.Add(incomingBubble);
                 }
             }
+
 
             // Cập nhật lastFetchedTime sau khi hiển thị tin nhắn
             if (messages.Count > 0)
@@ -225,11 +231,14 @@ namespace ĐồÁn_Nhóm15
 
         private async void SendMessage(string user1, string user2, string messageText)
         {
+            string key = "KEYBOX"; // Khóa Vigenère
+            string encryptedMessage = VigenereCipher.Encrypt(messageText, key); // Mã hóa
+
             var message = new ChatMessage
             {
                 User1 = user1,
                 User2 = user2,
-                Message = messageText,
+                Message = encryptedMessage,
                 Timestamp = DateTime.Now
             };
             var messageJson = JsonConvert.SerializeObject(message);
@@ -239,18 +248,9 @@ namespace ĐồÁn_Nhóm15
             try
             {
                 await _stream.WriteAsync(buffer, 0, buffer.Length);
-                if (message.User1 == user1)
-                {
-                    var outgoingBubble = new OutgoingMessageBubble();
-                    outgoingBubble.SetMessage(message.Message, message.Timestamp);
-                    flowLayoutPanelMessages.Controls.Add(outgoingBubble);
-                }
-                else
-                {
-                    var incomingBubble = new IncomingMessageBubble();
-                    incomingBubble.SetMessage(message.Message, message.Timestamp);
-                    flowLayoutPanelMessages.Controls.Add(incomingBubble);
-                }
+                var outgoingBubble = new OutgoingMessageBubble();
+                outgoingBubble.SetMessage(messageText, message.Timestamp); // Hiển thị tin nhắn gốc
+                flowLayoutPanelMessages.Controls.Add(outgoingBubble);
             }
             catch (Exception ex)
             {
@@ -259,6 +259,7 @@ namespace ĐồÁn_Nhóm15
             // Tải lại danh sách người dùng để cập nhật
             LoadUserChats();
         }
+
 
 
 

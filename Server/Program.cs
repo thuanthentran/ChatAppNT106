@@ -16,7 +16,7 @@ namespace Server
 
         public Server(string dbConnectionString, int port)
         {
-            _listener = new TcpListener(IPAddress.Parse("10.0.55.155"), 12345);
+            _listener = new TcpListener(IPAddress.Parse("192.168.2.26"), 12345);
             var client = new MongoClient(dbConnectionString);
             var database = client.GetDatabase("NMM");
             _collection = database.GetCollection<BsonDocument>("Chatting");
