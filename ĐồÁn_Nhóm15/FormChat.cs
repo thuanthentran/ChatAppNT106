@@ -57,7 +57,7 @@ namespace ĐồÁn_Nhóm15
         }
         private async void Connect ()
         {
-            _client = new TcpClient(("192.168.181.47"), 12345);
+            _client = new TcpClient(("10.0.55.155"), 12345);
             _stream = _client.GetStream();
             var emailMessage = new { User1 = Email };  // Chỉ gửi email cho server
             var emailJson = JsonConvert.SerializeObject(emailMessage);
@@ -269,6 +269,7 @@ namespace ĐồÁn_Nhóm15
             var user2 = otherUserEmail; // Sử dụng otherUserEmail thay vì textBoxEmail.Text
             var messageText = messageTextBox.Text;
             SendMessage(user1, user2, messageText);
+            messageTextBox.Clear();
         }
 
         private void guna2CustomGradientPanel1_Paint(object sender, PaintEventArgs e) { }

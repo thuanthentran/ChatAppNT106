@@ -30,12 +30,19 @@ namespace ĐồÁn_Nhóm15
             {
                 control.Click += new EventHandler(UserChatPreview_Click); // Gán sự kiện cho các điều khiển con
             }
-            this.BackColor = Color.Transparent; // Màu gốc
+            this.BackColor = Color.MediumSeaGreen; // Màu gốc
             originalColor = this.BackColor;
 
             this.MouseEnter += new EventHandler(UserControl_MouseEnter);
             this.MouseLeave += new EventHandler(UserControl_MouseLeave);
-
+            foreach (Control control in this.Controls)
+            {
+                if (control is Label label)
+                {
+                    label.MouseEnter += UserControl_MouseEnter;
+                    label.MouseLeave += UserControl_MouseLeave;
+                }
+            }
             animationTimer = new Timer();
             animationTimer.Interval = 1; // Thời gian mỗi bước chuyển màu
             animationTimer.Tick += new EventHandler(AnimationTimer_Tick);
@@ -54,7 +61,7 @@ namespace ĐồÁn_Nhóm15
         }
         private void UserControl_MouseLeave(object sender, EventArgs e)
         {
-            this.BackColor = Color.Transparent; // Màu gốc khi không di chuột
+            this.BackColor = Color.MediumSeaGreen; // Màu gốc khi không di chuột
         }
         private void UserChatPreview_Load(object sender, EventArgs e)
         {

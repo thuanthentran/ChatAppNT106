@@ -26,3 +26,4 @@ D:\ChatApp\ChatApp-master\ChatApp-master\ServerCaroGame\obj\Debug\net8.0\refint\
 D:\ChatApp\ChatApp-master\ChatApp-master\ServerCaroGame\obj\Debug\net8.0\ServerCaroGame.pdb
 D:\ChatApp\ChatApp-master\ChatApp-master\ServerCaroGame\obj\Debug\net8.0\ServerCaroGame.genruntimeconfig.cache
 D:\ChatApp\ChatApp-master\ChatApp-master\ServerCaroGame\obj\Debug\net8.0\ref\ServerCaroGame.dll
+D:\ChatApp\ChatApp-master\ChatApp-master\ServerCaroGame\obj\Debug\net8.0\ServerCaroGame.sourcelink.json

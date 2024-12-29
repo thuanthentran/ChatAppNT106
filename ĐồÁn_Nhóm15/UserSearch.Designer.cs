@@ -60,8 +60,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Transparent;
-            this.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.user2;
+            this.BackColor = System.Drawing.Color.SeaGreen;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Controls.Add(this.labelEmail);
             this.Controls.Add(this.labelUserName);

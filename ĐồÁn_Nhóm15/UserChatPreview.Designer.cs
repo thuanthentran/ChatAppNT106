@@ -58,7 +58,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::ĐồÁn_Nhóm15.Properties.Resources.Userpreview2;
+            this.BackColor = System.Drawing.Color.MediumSeaGreen;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Controls.Add(this.labelLastMessage);
             this.Controls.Add(this.labelUserName);

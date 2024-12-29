@@ -466,5 +466,10 @@ namespace ĐồÁn_Nhóm15
             Friend friend = new Friend();
             friend.ShowDialog();
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

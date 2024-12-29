@@ -24,7 +24,6 @@ namespace ĐồÁn_Nhóm15
 
         private void CaroGameForm_Load(object sender, EventArgs e)
         {
-            this.MaximizeBox = false;
             buttonConnect = new Button
             {
                 Location = new Point(10, 10),
@@ -41,7 +40,7 @@ namespace ĐồÁn_Nhóm15
         {
             try
             {
-                ConnectToServer("127.0.0.1", 12346);
+                ConnectToServer("10.0.55.155", 12346);
                 MessageBox.Show("Đã kết nối thành công tới server.");
             }
             catch (Exception ex)
@@ -88,7 +87,8 @@ namespace ĐồÁn_Nhóm15
                         Height = cellSize,
                         Location = new Point(j * cellSize, i * cellSize),
                         Font = new Font("Arial", 16, FontStyle.Bold),
-                        Tag = new Point(i, j)
+                        Tag = new Point(i, j),
+                        ForeColor = Color.Black
                     };
                     btn.Click += Btn_Click;
                     panelBoard.Controls.Add(btn);
@@ -96,7 +96,6 @@ namespace ĐồÁn_Nhóm15
                 }
             }
         }
-
         private void Btn_Click(object sender, EventArgs e)
         {
             if (!isMyTurn)
@@ -108,15 +107,20 @@ namespace ĐồÁn_Nhóm15
             Button btn = (Button)sender;
             if (btn != null && string.IsNullOrEmpty(btn.Text))
             {
-                btn.Text = mySymbol;
+                SetButtonSymbol(btn, mySymbol); // Sử dụng hàm để đặt ký hiệu và màu sắc
                 var point = (Point)btn.Tag;
                 SendMoveToServer(point.X, point.Y);
 
-                // Kiểm tra thắng thua sau khi đánh
                 if (CheckWinCondition(point.X, point.Y, mySymbol))
                 {
                     MessageBox.Show($"Người chơi {mySymbol} đã thắng!");
                     SendResetCommand(); // Gửi lệnh reset đến server để xóa bàn cờ của cả hai client
+                }
+                else if (IsBoardFull())
+                {
+                    MessageBox.Show("Hòa!");
+                    SendDrawCommand(); // Gửi lệnh hòa đến server
+                    SendResetCommand(); // Reset bàn cờ
                 }
 
                 isMyTurn = false; // Sau khi đánh, chuyển lượt
@@ -136,6 +140,14 @@ namespace ĐồÁn_Nhóm15
             byte[] data = Encoding.UTF8.GetBytes(resetMessage);
             stream.Write(data, 0, data.Length);
         }
+
+        private void SendDrawCommand()
+        {
+            string drawMessage = "DRAW:";
+            byte[] data = Encoding.UTF8.GetBytes(drawMessage);
+            stream.Write(data, 0, data.Length);
+        }
+
 
         private void ConnectToServer(string ip, int port)
         {
@@ -172,7 +184,7 @@ namespace ĐồÁn_Nhóm15
                             {
                                 this.BeginInvoke(new Action(() =>
                                 {
-                                    board[x, y].Text = symbol;
+                                    SetButtonSymbol(board[x, y], symbol);
                                 }));
                             }
                         }
@@ -191,15 +203,23 @@ namespace ĐồÁn_Nhóm15
                                 ResetBoard();
                             }));
                         }
-                        else if (parts[0] == "TIMEOUT")
+                        else if (parts[0] == "DRAW")
                         {
-                            // Xử lý khi đối thủ hết thời gian
                             this.BeginInvoke(new Action(() =>
                             {
-                                MessageBox.Show("Đối thủ đã hết thời gian! Bạn thắng.");
-                                SendResetCommand(); // Hoặc xử lý khác tùy theo yêu cầu
+                                MessageBox.Show("Hòa!");
+                                ResetBoard();
                             }));
                         }
+                        //else if (parts[0] == "TIMEOUT")
+                        //{
+                        //    // Xử lý khi đối thủ hết thời gian
+                        //    this.BeginInvoke(new Action(() =>
+                        //    {
+                        //        MessageBox.Show("Đối thủ đã hết thời gian! Bạn thắng.");
+                        //        SendResetCommand(); // Hoặc xử lý khác tùy theo yêu cầu
+                        //    }));
+                        //}
                     }
                 }
                 catch (Exception ex)
@@ -208,6 +228,12 @@ namespace ĐồÁn_Nhóm15
                     break;
                 }
             }
+        }
+
+        private void SetButtonSymbol(Button btn, string symbol)
+        {
+            btn.Text = symbol;
+            btn.ForeColor = symbol == "X" ? Color.Blue : Color.Red; // Xanh cho "X", Đỏ cho "O"
         }
 
         private bool CheckWinCondition(int row, int col, string symbol)
@@ -245,11 +271,22 @@ namespace ĐồÁn_Nhóm15
             return count;
         }
 
+        private bool IsBoardFull()
+        {
+            foreach (Button btn in board)
+            {
+                if (string.IsNullOrEmpty(btn.Text))
+                    return false;
+            }
+            return true;
+        }
+
         private void ResetBoard()
         {
             foreach (Button btn in panelBoard.Controls)
             {
                 btn.Text = ""; // Xóa toàn bộ quân cờ trên bàn cờ
+                btn.ForeColor = Color.Black;
             }
             isMyTurn = false; // Đặt lại trạng thái lượt chơi
             mySymbol = ""; // Reset quân cờ

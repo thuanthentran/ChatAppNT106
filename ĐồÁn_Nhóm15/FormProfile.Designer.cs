@@ -75,6 +75,7 @@
             this.guna2CustomGradientPanel1.SuspendLayout();
             this.panelSetting.SuspendLayout();
             this.panelHome.SuspendLayout();
+            this.flowLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // label2
@@ -220,7 +221,9 @@
             // 
             // button1
             // 
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button1.Location = new System.Drawing.Point(69, 19);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(193, 54);
@@ -448,7 +451,6 @@
             // panelHome
             // 
             this.panelHome.AllowDrop = true;
-            this.panelHome.Controls.Add(this.label6);
             this.panelHome.Controls.Add(this.flowLayoutPanel1);
             this.panelHome.Controls.Add(this.label5);
             this.panelHome.Controls.Add(this.label3);
@@ -466,18 +468,22 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(691, 15);
+            this.label6.BackColor = System.Drawing.Color.Transparent;
+            this.label6.Location = new System.Drawing.Point(3, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(100, 25);
             this.label6.TabIndex = 7;
             this.label6.Text = "Friendlist";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.BackColor = System.Drawing.Color.SeaGreen;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(613, 48);
+            this.flowLayoutPanel1.Controls.Add(this.label6);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(613, 13);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(262, 482);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(262, 565);
             this.flowLayoutPanel1.TabIndex = 6;
             // 
             // label5
@@ -557,6 +563,8 @@
             this.panelSetting.PerformLayout();
             this.panelHome.ResumeLayout(false);
             this.panelHome.PerformLayout();
+            this.flowLayoutPanel1.ResumeLayout(false);
+            this.flowLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);
 
         }
